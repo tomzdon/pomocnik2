@@ -101,6 +101,7 @@ const Login = (props) => {
                 onClick={handleSubmit}
                 style={{ marginBottom: 20 }}
                 variant="contained"
+                color="primary"
               >
                 Zaloguj
               </Button>
