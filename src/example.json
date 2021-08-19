@@ -1,0 +1,572 @@
+{
+  "recipes": [
+    {
+      "composition": ["Mieszanka sałat (lub jeden rodzaj)", "2 jajka", "2 pomidory", "1 puszka kukurydzy", "1 opakowane małych cebulek w occie lub 1 średnia cebula", "Porcja sosu winegret"],
+      "description": "Umyć sałaty, osuszyć i porwać na kawałki. Ugotować jajka na twardo, obrać ze skorupek i pokroić w ćwiartki. Sparzyć pomidory, obierać ze skórki, następnie pokroić w ósemki. Odsączyć cebulki i kukurydzę z zalewy. Wymieszać składniki sałatki, ćwiartki jajka ułóżyć na środku salaterki. Polać sałatke sosem winegret.",
+      "ingredients": ["Jajka", "Pomidor", "Salata", "Kukurydza", "Cebula", "SosWinegret"],
+      "name": "Sałatka z jajkiem i kukurydzą",
+      "number": 0
+    },
+    {
+    "composition":  ["1kg ugotowanych ziemniaków", "Mąka ziemniaczana (ok. 180 g)", "1 jajko", "Sól"],
+    "description": "Ugotowane i lekko przestudzone ziemniaki przeciśnij przez praskę. Zmielone ziemniaki uklep na płasko w misce. Podziel całość na cztery części, jedną z nich wyjmij, wsyp w to miejsce mąkę ziemniaczaną, następnie dodaj jajko, wyjęte wcześniej ziemniaki i opcjonalnie sól. Wymieszaj wszystko, ma powstać gładka, jednolita masa. Formuj małe kulki, delikatnie je rozpłaszczaj a następnie rób w środku mały dołek; W dużym garnku zagotuj wodę z łyżką soli, wrzucaj kluski i gotuj na małym ogniu ok. 3-4 min od wypłynięcia.",
+    "ingredients": ["Ziemniaki", "Jajka", "MakaZiemniaczana"],
+    "name": "Kluski śląskie",
+    "number": 1
+    },
+    {
+      "composition": ["180 g jogurtu naturalnego", "3 łyżki majonezu", "3 ząbki czosnku", "Zioła prowansalskie", "Pół łyżeczki cukru", "Sól, pieprz do smaku"],
+      "description": "Do naczynia wlać jogurt naturalny, dodać majonez – konsystencja powinna być lejąca, niezbyt gęsta. Następnie dodać 3 ząbki czosnku przeciśnięte przez praskę. Można użyć więcej czosnku, jeśli lubimy bardziej intensywne smaki. Wsypać pół łyżeczki cukru i zioła prowansalskie. Na koniec sól, pieprz do smaku. Wymieszać dokładnie wszystkie składniki. Odstawić do lodówki na trochę, aby sos się przegryzł.",
+      "ingredients": ["JogurtNaturalny", "Majonez", "Czosnek"],
+      "name": "Sos czosnkowy",
+      "number": 2
+    },
+    {
+      "composition": ["3 łyżeczki masła","2 płaskie łyżki mąki", "300 ml mleka", "Szczypta gałki muszkatołowej", "Szczypta pieprzu cayenne", "Ząbek czosnku", "200g sera żółtego typu gouda "],
+      "description": "Ser ścieramy na tarce o małych oczkach, czosnek przepuszczamy przez praskę. W rondelku, najlepiej o grubym dnie rozpuszczamy masło. Do całkowicie stopionego dodajemy mąkę, mieszamy, by nie było grudek. Powoli dolewamy mleko, przyprawy, czosnek i ser. Cały czas mieszając doprowadzamy do zagotowania i zgęstnienia sosu.",
+      "ingredients": ["Maslo", "MakaPszenna", "Mleko", "SerZolty", "Czosnek"],
+      "name": "Sos serowy",
+      "number": 3
+    },
+    {
+      "composition": ["Brokuł - 1 sztuka", "Porcja sosu czosnkowego", "4 jajka", "150 gramów wędzonej szynki", "2 łyżki majonezu"],
+      "description": "Brokuł podzielić na różyczki i ugotować w osolonym wrzątku. Ostudzić w zimnej wodzie, aby nie stracił koloru. Jajka ugotować na twardo, schłodzić, następnie obierać i pokroić na cząstki. Szynkę pokroić w kostkę lub paski. Brokuły, szynkę oraz jajka wyłóżyć do salaterek, polać sosem czosnowym i podawać.",
+      "ingredients": ["Brokul", "SosCzosnkowy", "Jajka", "Szynka", "Majonez"],
+      "name": "Sałatka z brokułami i jajkiem",
+      "number": 4
+    },
+    {
+      "composition": ["Fasola czerwona - 1 puszka", "Porcja sosu winegret", "Kukurydza - 1 puszka", "Groszek zielony - 1 puszka", "Pieczarki marynowane - 1 słoiczek", "2 cebule", "2 łyżki ketchupu", "2 łyżki majonezu", "Kilka kropel tabasco", "1,5 szklanki makaronu Orzo", "Papryka zółta (lub inna) - 1 sztuka" ],
+      "description": "Makaron ugotować al dente i wystudzić. Fasolę, kukurydzę, groszek i pieczarki odsączyć z zalewy. Paprykę pokroić w paski. Warzywa dodać do makaronu i wymieszać. Cebule pokroić w kostkę i zeszklić na patelni. Do cebuli dodać ketchup, sos winegret i kilka kropel tabasco - wszystko dokładnie wymieszać i ostudzić. Połączyć z majonezem. Połączone ze sobą wszystkie składniki sałatki, polać wystudzonym sosem, wymieszać i przełóżyć do salaterki.",
+      "ingredients": ["FasolaCzerwona", "SosWinegret", "Kukurydza", "GroszekZielony", "PieczarkiMarynowane", "Cebula", "Majonez", "Ketchup", "Makaron", "Papryka"],
+      "name": "Sałatka z czerwoną fasolą",
+      "number": 5
+    },
+    {
+      "composition": ["3 łyżki oliwy z oliwek", "1 łyżka soku z cytryny lub octu winnego"],
+      "description": "Łyżkę soku z cytryny lub octu winnego wymieszaj z dużą szczyptą soli – tak, aby sól się rozpuściła. Dolać 3 łyżki oliwy z oliwek, wymieszać dokładnie, aż sos stanie się jednolity, nieco mętny, doprawić pieprzem.",
+      "ingredients": ["OliwaZoliwek", "SokZcytryny"],
+      "name": "Sos winegret",
+      "number": 6
+    },
+    {
+      "composition": ["1 kg ziemniaków truflowych (lub zwykłych)", "1 szklanka ugotowanej, drobnej, białej fasoli (ostatecznie może być z puszki)", "1 pęczek natki pietruszki", "Brokuł - 1 sztuka", "Zioła i przyprawy: sól, pieprz, ulubiona mieszanka ziół", "Porcja sosu tzatziki"],
+      "description": "Fasolę moczyć przez całą noc, a następnie ugotować w świeżej wodzie do miękkości. Jeśli używasz fasoli z puszki to koniecznie przepłucz ją porządnie pod bieżącą wodą. Ziemniaki dokładnie wyczyścić, a następnie ugotować w mundurkach. Najlepiej wrzucić je na wrzącą wodę i gotować przez 20 minut, a następnie ostudzić. Pokroić w kostkę i umieścić w misce. Brokuły podzielić na pojedyncze różyczki. Gotować je na parze (pod przykryciem przez 7 minut). Ostudzić. Dodać do ziemniaków. Natkę pietruszki dokładnie umyć, posiekać, dodać do reszty składników. Do wszystkich składników dodać wyszczególnione zioła i przyprawy według uznania. Wymieszać. Podawać z sosem tzatziki. ",
+      "ingredients": ["Ziemniaki", " Fasola", "NatkaPietruszki", "Brokul", "SosTzaziki"],
+      "name": "Sałatka ziemniaczana podawana z tzatziki",
+      "number": 7
+    },
+    {
+      "composition": ["300 g jogurtu naturalnego", "200 g ogórków świeżych", "1-2 ząbki czosnku", "1 łyżka oliwy z oliwek", "Pęczek koperku", "Sól, pieprz"],
+      "description": "Ogórek umyć, obierać i wykroić gniazda nasienne. Zetrzeć do miski na tarce o dużych oczkach. Do miski ze startym ogórkiem dodać jogurt grecki, przeciśnięty przez praskę czosnek, oliwę z oliwek, posiekany koperek. Wszystko dokładnie wymieszać.",
+      "ingredients": ["JogurtNaturalny", "Ogorek", "Czosnek", "Koperek"],
+      "name": "Sos tzaziki",
+      "number": 8
+    },
+    {
+      "composition": ["Brokuł - 1 sztuka", "Kalafior - 1 sztuka", "Cebula - 1 sztuka", "Szynka gotowana - 5 plastrów", "Porcja sosu czosnkowego", "Ser zółty - 5 plastrów", "Natka pietruszki - 1 pęczek", "Majonez - łyżki", "Woda - 6 łyżek"],
+      "description": "Z brokuła oraz kalafiora powycinać małe różyczki, następnie ugotować je w osolonej wodzie. Wystudzić. Szynkę, ser i cebulę pokroić w cienkie paski. Natkę posiekać drobno. Do sosu czosnkowego dodać pietruszkę. W misce wymieszaj wszystkie składniki wraz z przygotowanym sosem. Gotową sałatkę przełóżyć do salaterki i udekorować listkami pietruszki.",
+      "ingredients": ["Brokul", "Kalafior", "Cebula", "Szynka", "SerZolty", "SosCzosnkowy", "NatkaPietruszki", "Majonez"],
+      "name": "Sałatka z brokułów i kalafiora",
+      "number": 9
+    },
+    {
+      "composition": ["Brokuł - 1 sztuka", "Porcja sosu serowego", "Śmietanka - 100 ml", "Ser feta - 150 gramów", "Koperek - 1 pęczek", "Czarne oliwki - 50 gramów"],
+      "description": "Podzielić brokuły na małe części. Posiekać koperek. Ugotować brokuły na chrupko, we wrzącej wodzie, przez 3 min. Odsączyć i przelać zimną wodą. Wymieszać brokuły z oliwkami i pokruszonym serem feta. Polać sosem i pospyać koperkiem.",
+      "ingredients": ["Brokul", "SosSerowy", "Smietanka", "SerFeta", "Koperek", "Oliwki"],
+      "name": "Brokuły w sosie serowym",
+      "number": 10
+    },
+    {
+      "composition": ["Świeże drożdże - 25 gramów lub drożdze suche ", "Sól - 1 łyżeczka", "Cukier - 1 łyżeczka", "Mąka pszenna - 700 gramów", "Ciepła woda - 250 mililitrów", "Oliwa z oliwek- 50 mililitrów "],
+      "description": "Do odpowiedniej miseczki nalej szklankę ciepłej wody, rozpuść w niej sól, cukier i drożdże, dodaj oliwę oraz mąkę. Delikatnie mieszając połącz wszystkie składniki. Ciasto wyrabiaj około 5 minut, aż przestanie kleić się do rąk, w razie potrzeby dodaj jeszcze trochę mąki. ",
+      "ingredients": ["Drozdze","MakaPszenna"],
+      "name": "Ciasto na pizzę",
+      "number": 11
+    },
+    {
+      "composition": ["Pomidory - około 0,5 kg (mogą być w puszce)", "Oliwa z oliwek - 2 łyżki", "Oregano - 1 łyżeczka", "Bazylia - 1 łyżeczka", "Sól - szczypta", "Czosnek - 2 ząbki", "Cukier - 1 łyżeczka", "Koncentrat pomidorowy - 1 łyżka"],
+      "description": "Świeże pomidory włóżyć do naczynia i sparzyć. Po kilku minutach wyciągnąć z wody, ostudzić i obierać. Po obraniu je rozgnieść. Pomidory w puszce po prostu przełożyć do naczynia. Dodać oliwę, rozgnieciony czosnek, oregano, pokrojoną bazylię, sól, koncentrat i cukier. Wszystko wymieszać i przełóżyć do słoika.",
+      "ingredients": ["Pomidor", "Czosnek"],
+      "name": "Sos pomidorowy - np. do pizzy, makaronów",
+      "number": 12
+    },
+    {
+      "composition": ["Makaron penne - 250 gramów", "Cukinia - 2 sztuki", "Sos pomidorowy - 1 porcja", "Oliwa z oliwek - 1 łyżka", "Ser żółty - 50 gramów", "Bazylia - 1 łyżeczka", "Sól, pieprz"],
+      "description": "Ugotować makaron według przepisu na opakowaniu. Pokroić cukinię w plastry lub w kostkę. Zetrzeć na tarce ser. Przesmażyć krótko cukinie z 1 łyżką oliwy, tak aby zmiękła i lekko zrumieniła się. Odstawić. W garnku podgrzać sos pomidorowy. Dodać cukinie i gotować jeszcze przez 1-2 minuty. Podawać makaron wymieszany z sosem i posypany serem i bazylią.",
+      "ingredients": ["Cukinia", "SosPomidorowy", "Makaron", "SerZolty"],
+      "name": "Makaron z sosem pomidorowym i cukinią",
+      "number": 13
+    },
+    {
+      "composition": ["Pierś z kurczaka - 200 gramów", "Przyprawy do mięsa (własna mieszanka) - 1 łyżka", "Ser feta feta - 1 opakowanie", "Sos winegret - 1 porcja", "Cukinia - 1 sztuka", "Bakłażan - 1 sztuka", "Cebula - 1 sztuka","Papryka - 2 sztuki", "Oliwa z oliwek - 3 łyżki"],
+      "description": "Kurczaka oprósz przyprawą, usmaż na patelni. Ostudź, a następnie pokrój w kostkę. Warzywa umieść w żaroodpornym naczyniu i piecz 30 minut w temperaturze 180 °C. Odstaw do ostygnięcia. Warzywa pokrój w kostkę i połącz z kurczakiem. Na koniec dodaj pokruszony ser feta. Całość polać sosem winegret",
+      "ingredients": ["SosWinegret", "Kurczak", "Baklazan", "SerFeta", "Cukinia", "Papryka", "Cebula"],
+      "name": "Sałatka z kurczakiem po grecku",
+      "number": 14
+    },
+    {
+      "composition": ["Pierś z kurczaka - 400 gramów", "Sos serowy - porcja", "Ziemniaki - 400 gramów", "Śmietana - 18% - 200 ml", "Żółty ser - 100 gramów", "Olej - 80 ml", "Cebula - 1 sztuka", "Natka pietruszki - 1 sztuka" ],
+      "description": "Cebulę pokrój w piórka, podsmaż ją w garnku, dodaj pokrojonego w kostkę kurczaka, smaż chwilę, dodaj pokrojone w plastry ziemniaki. Całość smaż mieszając co jakiś czas, aż ziemniaki delikatnie się rozkleją. Dodaj wtedy śmietanę wymieszaną z sosem serowym, całość zagotuj, a następnie przełóż w żaroodporne naczynie uciskając wszystkie składniki razem. Zapiekankę z wierzchu posyp serem, zawiń w folię aluminiową, wstaw do nagrzanego do 190°C piekarnika na 40 minut. Dziesięć minut przed końcem pieczenia usuń folię, aby ser mógł się zapiec. Podawaj z posiekaną natką pietruszki.",
+      "ingredients": ["Kurczak", "SosSerowy", "Ziemniaki", "Smietana", "SerZolty", "Cebula"],
+      "name": "Ziemniaczana zapiekanka z kurczakiem",
+      "number": 15
+    },
+    {
+      "composition": ["Pierś z kurczaka - 100 gramów", "Sos czosnkowy - 1 porcja", "Brokuł - 200 gramów", "Kiełki słonecznika -  3 łyżki", "Olej do smażenia", "Czosnek - 2 ząbki", "Sos sojowy - 2-3 łyżki"],
+      "description": "Z brokuła wytnij małe różyczki, następnie sparz je w osolonym wrzątku, aby były kruche. Kurczaka pokrój na małe paski, skrop sosem sojowym i usmaż na dobrze rozgrzanym oleju. Po zdjęciu kurczaka ponownie dobrze rozgrzej patelnię. Smaż brokuły i czosnek pokrojony w plasterki. Jak wszystko nabierze rumianych kolorów odstaw na talerzyk i poczekaj, aż przestygnie. Następnie połącz wszystkie składniki z sosem czosnkowym i posyp sałatkę kiełkami.",
+      "ingredients": ["Kurczak", "SosCzosnkowy", "Brokul", "Czosnek", "SosSojowy"],
+      "name": "Sałatka z brokułami i kurczakiem",
+      "number": 16
+    },
+    {
+      "composition": ["Piersi z kurczaka - 4 sztuki", "Ziemniaki - 8 sztuk", "Cebula - 1 sztuka", "Sos serowy - porcja", "Czosnek - 1 ząbek", "Majeranek - 1 łyżeczka"],
+      "description": "Piersi pokrój w szerokie paski i przełóż do rękawa do pieczenia. Ziemniaki pokrój na połówki lub ćwiartki (w zależności od wielkości). Razem z pokrojoną w piórka cebulą dołóż do woreczka z mięsem. Dodaj również rozgnieciony czosnek. Przygotowany sos serowy wlej do rękawa do pieczenia z pozostałymi składnikami i zepnij spinką. Całość wymieszaj. Woreczek włóż do nagrzanego do 180 °C piekarnika i piecz przez około 25 minut do momentu, gdy ziemniaki będą miękkie. Gotowe danie podawaj np. z brokułami.",
+      "ingredients": ["Kurczak", "SosSerowy", "Ziemniaki", "Cebula", "Czosnek"],
+      "name": "Piersi z kurczaka zapiekane z ziemniakami",
+      "number": 17
+    },
+    {
+      "composition": ["Pierś z kurczaka - 450 gramów", "Cebula - 100 gramów", "Czerwona fasola - 1 opakowanie", "Kukurydza - 1 opakowanie", "Czerwona papryka - 1 sztuka", "Sos pomidorowy - porcja", "Mieszanka pokantnych przypraw", "Ryż - 100 gramów"],
+      "description": "Piersi z kurczaka i cebulę pokrój w kostkę, podsmaż w garnku w małej ilości tłuszczu. Dodaj czerwoną fasolę, kukurydzę i pokrojoną w kostkę czerwoną paprykę. Następnie dodaj sos pomidorowy i przyprawy. Gotowe danie podawaj z ugotowanym ryżem.",
+      "ingredients": ["Kurczak", "FasolaCzerwona", "Cebula", "Kukurydza", "Ryz", "Papryka", "SosPomidorowy"],
+      "name": "Kurczak po meksykańsku",
+      "number": 18
+    },
+    {
+      "composition": ["Pierś z kurczaka - 1 sztuka", "Sos serowy - porcja", "Brokuł - 1 sztuka", "Ugotowany makaron penne - 400 gramów", "Śmietanka 36% - 200 ml", "Jajka - 2 sztuki", "Starty ser żółty - 100 gramów"],
+      "description": "Sos serowy zmiksuj z jajkiem i śmietanką. Pierś pokrój w niedużą kostkę, brokuły podziel na mniejsze różyczki i sparz chwilę we wrzącej wodzie. W dużej misce wymieszaj makaron, kawałki kurczaka, brokuły oraz przygotowany sos. Natłuszczone naczynie żaroodporne wypełnij przygotowanym makaronem, posyp startym serem i wstaw do nagrzanego do 180 stopni C piekarnika. Zapiekaj przez 25 minut. Podawaj na ciepło.",
+      "ingredients": ["Kurczak", "SosSerowy", "Brokul", "Makaron", "Smietanka", "Jajka", "SerZolty"],
+      "name": "Makaronowa zapiekanka z kurczakiem i brokułami",
+      "number": 19
+    },
+    {
+      "composition": ["Pierś z kurczaka - 4 sztuki", "Ser żółty tarty - 50 gramów", "Natka pietruszki - 2 łyżki", "Przyprawy do kurczaka", "Jajka - 3 sztuki", "Majonez - 5 łyżek", "Ketchup - 4 łyżki"],
+      "description": "Filety oczyść i umyj, następnie pokrój w średniej grubości plastry. Ketchup, majonez, wodę i przyprawy połącz na gładką masę. Ser żółty wymieszaj z panierką i natką pietruszki. Pokrojone filety kurczaka obtocz w roztrzepanym jajku, a następnie w przygotowanej panierce. Układaj na blasze wyłożonej pergaminem i piecz w temperaturze 180 °C 15 minut. Podawaj z jakimś sosem, np. czosnkowym.",
+      "ingredients": ["Kurczak","SerZolty", "Majonez", "Jajka"],
+      "name": "Nuggetsy z kurczaka w serze",
+      "number": 20
+    },
+    {
+      "composition": ["Mięso mielone - 40 dekagramów", "Przyprawy do mięsa (własna mieszanka ulubionych przypraw) - 2 łyżki","Kalafior 500 gramów", "Sos serowy - porcja", "Pieprz, sól", "Olej - 2 łyżki"],
+      "description": "Kalafior podgotuj, mięso dopraw przyprawą Knorr i podsmaż na rozgrzanym oleju. Posmaruj naczynie żaroodporne masłem. Następnie ułóż w nim mięso i kalafiora. Całość zalej przygotowanym sosem serowym i zapiekaj około 15 minut w piekarniku nagrzanym do 180 stopni.",
+      "ingredients": ["Mielone", "Kalafior", "SosSerowy"],
+      "name": "Kalafior zapiekany z mięsem mielonym",
+      "number": 21
+    },
+    {
+      "composition": ["Wołowina - 500 gramów", "Cebula - sztuka", "Własna mieszanka przypraw do gulaszu - 3 łyżki", "Czosnek - 2 ząbki", "Czerwone papryki - 2 sztuki", "Marchewki - 2 sztuki", "Liść laurowy - 2 sztuki", "Oliwa z oliwek - 1 łyżka", "Własne przyprawy"],
+      "description": "Pokrój mięso w kostkę. Pokrój cebulę w półksiężyce. Pokrój czosnek w plasterki. Usuń z papryk gniazda nasienne i pokrój je w kostkę. Pokrój marchewkę w plasterki. Rozgrzej 0.5 łyżki oliwy w dużym garnku na średnim ogniu. Wrzuć pokrojone w kostkę mięso i poczekaj aż się zrumieni z każdej strony. Smaż ok. 5 min. Odstaw.Dodaj do garnka 0.5 łyżki oliwy. Podsmaż cebule i czosnek aż po 3-4 min. zaczną wydzielać aromat. Dodaj marchewki i papryki, gotuj dalej przez około 5 min. Wrzuć mięso z powrotem do garnka. Przyprawy wymieszaj z 500 ml wody, następnie wlej do mięsa z warzywami. Dodaj liście laurowe. Zagotuj, zmniejsz ogień i gotuj pod przykryciem przez około 1,5 h lub do momentu aż mięso zmięknie.",
+      "ingredients": ["Wolowina", "Cebula", "Czosnek", "Papryka", "Marchewka"],
+      "name": "Wiosenny gulasz",
+      "number": 22
+    },
+    {
+      "composition": ["Duże ziemniaki - 4 sztuki", "Mięso mielone wieprzowe - 300 gramów", "Sos pomidorowy - porcja", "Cebula - 1 sztuka", "Czosnek  - 1 ząbek", "Natka pietruszki - 0.5 pęczka", "Ser żółty - 80 gramów"],
+      "description": "Ziemniaki dokładnie umyj i ugotuj do miękkości. Następnie odcedź i odstaw, aby ostygły. Przekrój ziemniaki wzdłuż na pół i wydrąż część miąższu tak, aby powstały łódeczki. Na patelni podsmaż posiekaną cebulę i czosnek. Po chwili dodaj mięso i smaż około 8 minut. Następnie dodaj do mięsa posiekane pomidory z puszki razem z sokiem i przyprawami. Wrzuć również pozostały miąższ z ziemniaków. Wszystko wymieszaj i smaż, aż zgęstnieje. Farsz dopraw posiekaną natką pietruszki i gotowy nakładaj do ziemniaczanych łódeczek. Posyp ziemniaki startym serem i zapiekaj w temperaturze 220 °C przez 10 minut. Podawaj np. z gęstą kwaśną śmietaną.",
+      "ingredients": ["Mielone", "Ziemniaki", "SosPomidorowy", "Cebula", "Czosnek", "SerZolty"],
+      "name": "Ziemniaki faszerowane mięsem i pomidorami",
+      "number": 23
+    },
+    {
+      "composition": ["Wołowina - 1 kilogram", "Własna mieszanka przypraw do gulaszu - 3-4 łyżki", "Cebula czerwona - 300 gramów", "Papryka czerwona - 1 sztuka", "Papryka żółta - 1 sztuka", "Ząbki czosnku - 4 sztuki", "Smalec - 100 gramów", "Kminek - według uznania", "Woda - 1 litr"],
+      "description": "Wołowinę opłucz pod bieżącą zimną wodą. Osusz ręcznikiem papierowym i pokrój w kostkę ok. 2x2 cm. Cebulę pokrój w kostkę, czosnek wyciśnij przez praskę lub drobno posiekaj. Paprykę pokrój w kostkę ok. 1x1 cm. W garnku rozgrzej tłuszcz i zrumień mięso. Następnie dodaj cebulę, czosnek i paprykę. Dopraw kminkiem. Do obsmażonych składników wlej wodę i dodaj przyprawy. Całość mieszaj do momentu, aż się zagotuje, następnie duś na małym ogniu pod przykryciem przez około 60 minut, aż mięso zrobi się miękkie.",
+      "ingredients": ["Wolowina","Cebula", "Papryka", "Czosnek"],
+      "name": "Bogracz tradycyjny",
+      "number": 24
+    },
+    {
+      "composition": ["Cukinia - 3 sztuki", "Mięso mielone - 400 gramów", "Własna mieszanka przypraw - 3-4 łyżki", "Pomidory z puszki - 1 opakowanie", "Żółty ser - 100 gramów", "Bulion (może być z kostki)"],
+      "description": "Cukinie przekrój wzdłuż na pół i wydrąż ze środka pestki i cześć miąższu. Bulion połącz z mięsem mielonym. Powstały farsz umieść w cukinii. Faszerowane warzywa umieść w żaroodpornym naczyniu i posyp po wierzchu startym serem. Do naczynia dodaj pomidory z puszki oraz dobrze rozkruszoną kostkę bulionową Knorr. Całość piecz w piekarniku nagrzanym do 190*C przez około 30 minut.",
+      "ingredients": ["Cukinia", "Mielone", "PomidoryZpuszki", "SerZolty"],
+      "name": "Faszerowana cukinia",
+      "number": 25
+    },
+    {
+      "composition": ["Schab wieprzowy - 500 gramów", "Bulion mięsny - około 300 ml", "Ogórek kiszony - 1 sztuka", "Przyprawy do mięs - 1 łyżka", "Cebula - 2 sztuki", "Olej do smażenia - 3 łyżki"],
+      "description": "Mięso pokrój w plastry grubości 1 cm. Rozbij tłuczkiem i natrzyj przyprawami. Ogórka i cebulę pokrój w plastry, cebulę obsmaż na patelni. Na każdy płat mięsa nałóż plaster ogórka i łyżkę podsmażonej cebulki. Zawiń brzegi, a następnie zroluj cały płat. Zabezpiecz wykałaczką przed rozwinięciem. Zrazy obsmaż na patelni z obu stron, a następnie zalej bulionem. Duś pod przykryciem przez 15 minut.",
+      "ingredients": ["Wieprzowina", "Cebula", "OgórekKiszony"],
+      "name": "Zrazy schabowe duszone w cebulce",
+      "number": 26
+    },
+    {
+      "composition": ["Karkówka (lub inne mięso) 400 gramów", "Przyprawa do mięs - 4 łyżki", "Cebula - 3 sztuki", "Papryka czerwona - 1 sztuka", "Papryka żółta - 1 sztuka", "Przyprawa Curry - 1 łyżka", "Pieczarki - 5 sztuk", "Olej - 80 mililitrów"],
+      "description": "Mięso pokrój w kostkę o boku około 2 cm. Następnie zamarynuj w oleju i przyprawach. Papryki umyj i pokrój w kostkę podobnej wielkości jak mięso. Cebulę pokrój na ćwiartki, a pieczarki na połówki. Nadziewaj szaszłyki. Zacznij od kawałka mięsa, następnie daj paprykę i cebulę. Na końcu szaszłyka powinno znaleźć się mięso. Gotowe szaszłyki posyp curry i smaż na patelni bądź grilluj po 6-8 minut z każdej strony. Takie szaszłyki najlepiej smakują z grilla np. z sosem jogurtowym i pieczonymi ziemniakami.",
+      "ingredients": ["Wieprzowina", "Cebula", "Papryka", "Pieczarki"],
+      "name": "Szaszłyki z grilla ",
+      "number": 27
+    },
+    {
+      "composition": ["Polędwiczki wieprzowe - 400 gramów", "Ocet balsamiczny - 200 mililitrów", "Miód - 1 łyżka", "Cukier muscovado - 1 łyżka", "Przyprawa do wieprzowiny - 2 łyżki", "Ketchup pikantny - 2 łyżki"],
+      "description": "Mięso oczyść z błon i przerostów tłuszczu, oprósz obficie przyprawą. Mięso odstaw na co najmniej godzinę w chłodne miejsce. W garnku połącz ocet balsamiczny, cukier, miód i ketchup. Całość gotuj około 5 minut aż powstanie gęsta glazura. Powstały sos odstaw na chwilę aby ostygł. Zanurz w nim mięso. Polędwiczki ułóż blasze do pieczenia na pergaminie, wstaw do nagrzanego do 190*C piekarnika na około 10 minut. Po tym czasie mięso przełóż na druga stronę posmaruj ponownie glazura i piecz jeszcze kolejne 10 minut. Czas pieczenia zależy od grubości mięsa. Po upieczeniu polędwiczkę wyjmij z piekarnika odstaw na bok na około 5 minut, po czym mięso pokrój w odpowiednie plastry. Podawaj na purée ziemniaczanym z odrobią chrzanu.",
+      "ingredients": ["Wieprzowina", "OcetBalsamiczny", "Miod"],
+      "name": "Pieczone polędwiczki wieprzowe glazurowane miodem i octem balsamicznym",
+      "number": 28
+    },
+    {
+      "composition": ["Mięso mielone - 500 gramów", "Mieszanka przypraw (pieprz, sól, papryka itp.) - 2 płaskie łyżki", "Makaron spaghetti - 1 opakowanie", "Pomidory z puszki - 1 opakowanie", "Olej - 5 łyżek", "Woda - około 150 ml"],
+      "description": "Ugotuj makaron. Mięso podsmaż na patelni. Dodaj pomidory, dokładnie wszystko rozdrobnij i doprowadź do wrzenia. Dodaj wodę oraz przyprawy. Gotuj na małym ogniu, aż sos zrobi się idealnie gęsty. Podawaj z makaronem.",
+      "ingredients": ["Mielone", "Makaron", "PomidoryZpuszki"],
+      "name": "Proste spaghetti bolognese",
+      "number": 29
+    },
+    {
+      "composition": ["Makaron tagliatelle - 350 gramów", "Sos serowy - 1 porcja", "Pierś z kurczaka - 1 sztuka", "Brokuły - 0.5 sztuki", "Pomidorki cherry kilka sztuk", "Śmietana 18% - 50 mililitrów", "Olej - 2 łyżki "],
+      "description": "Makaron ugotuj al dente w lekko osolonej wodzie i odcedź. Brokuły podziel na różyczki i ugotuj. Na rozgrzanej oliwie przesmaż kurczaka pokrojonego w niedużą kostkę, wlej przygotowany sos serowy i zagotuj. Do sosu dodaj makaron, brokuły oraz pokrojone na połówki pomidorki. Całość wymieszaj, zagotuj i wyłóż na talerze. Tip: Aby wzbogacić smak dania posyp je startym parmezanem." ,
+      "ingredients": ["Makaron", "Pomidory", "Smietana", "SosSerowy", "Kurczak", "Brokul"],
+      "name": "Kremowe tagliatelle z kurczakiem i brokułami",
+      "number": 30
+    },
+    {
+      "composition": ["Filet z kurczaka - 1 sztuka", "Przyprawa do kurczaka", "Mały brokuł - 1 sztuka", "Jajka - 10 sztuk", "Oliwa z oliwek", "Masło"],
+      "description": "Rozbij jaja i rozmieszaj je na jednolitą masę. Umyj kurczaka, pokrój go w paski. Następnie przesmaż na oliwie z oliwek. Podziel brokuł na małe różyczki i ugotuj w osolonej wodzie. Rozpuść masło na rozgrzanej patelni, po czym wlej jaja, dodaj kurczaka oraz brokuły. Należy uważać, aby masło nie przypaliło się, inaczej potrawa będzie niezdrowa i niesmaczna. Smaż całość do momentu, kiedy jaja zaczną się ścinać. Posyp omlet z wierzchu Przyprawą do kurczaka i podawaj.",
+      "ingredients": ["Kurczak", "Jajka", "Brokul"],
+      "name": "Omlet z kurczakiem i brokułami",
+      "number": 31
+    },
+    {
+      "composition": ["Wołowina - 500 gramów", "Sos do pieczeni instant - 1 sztuka", "Mąka pszenna - 5 łyżek", "Sos pomidorowy - porcja", "Cebula - 2 sztuki", "Ząbek czosnku - 1 sztuka"],
+      "description": "Mięso pokrój w plastry i rozbij tłuczkiem. Następnie oprósz mąką i zrumień z obu stron na patelni. Cebulę oraz czosnek pokrój w kostkę i zeszklij w garnku na rozgrzanym tłuszczu. Smaż chwilę razem. Całość zalej 300 ml wrzącej wody, dodaj sos pomidorowy i przykryj garnek. Zmniejsz ogień i duś mięso do momentu, gdy będzie miękkie – ok. 35 minut. Gotowe bitki podawaj z ryżem.",
+      "ingredients": ["Wolowina", "MakaPszenna", "Cebula", "Czosnek", "SosPomidorowy"],
+      "name": "Bitki wołowe w sosie pomidorowym",
+      "number": 32
+    },
+    {
+      "composition": ["Twaróg - 300 gramów", "Mąka ziemniaczana - 1 łyżka", "Mąka pszenna - 1/3 szklanki", "Mąka do podsypania ciasta", "Jajko - 1 sztuka", "Cukier wanilinowy - 10 gramów", "Masło - 3 łyżki", "Bułka tarta - 2 łyżki", "Cynamon - 1 łyżka"],
+      "description": "Twaróg, przeciśnięty przez praskę, wymieszaj szybko i energicznie z jajkiem, mąką ziemniaczaną oraz pszenną i cukrem waniliowym tworząc zwarte ciasto. Odstaw ciasto na 10 minut. Następnie podsyp delikatnie mąką, podziel ciasto na mniejsze kawałki i z każdego uformuj wałek. Wałki ciasta pokrój nożem w romby i gotuj w wodzie 2-3 minuty. W tym czasie rozpuść na patelni masło i zrumień bułkę tartą wraz z cynamonem. Gotowe leniwe przełóż na talerz i polej cynamonowym masłem.",
+      "ingredients": ["Twarog", "MakaZiemniaczana", "MakaPszenna", "MakaZiemniaczana", "Jajka",  "BulkaTarta", "Cukier", "Maslo", "Cynamon"],
+      "name": "Puszyste leniwe z cynamonem",
+      "number": 33
+    },
+    {
+      "composition": ["Ziemniaki - 1 kilogram", "Jajko - 1 sztuka", "Mąka pszenna - 2 łyżki", "Mąka ziemniaczana - 200 gramów", "Oliwa"],
+      "description": "Ziemniaki ugotuj. Zmiel ziemniaki, a następnie dodaj pozostałe składniki i wyrób ciasto. Uformuj wałek, odrobinę go spłaszcz i krój ukośnie nożem. Kluski gotuj we wrzącej, osolonej wodzie. Przed podaniem polej masłem z bułką tartą.",
+      "ingredients": ["Ziemniaki", "Jajka", "MakaZiemniaczana", "MakaPszenna"],
+      "name": "Kopytka",
+      "number": 34
+    },
+    {
+      "composition": ["Ziemniaki - 1 kilogram", "Cebula - 1 sztuka", "Jajka - 2 sztuki", "Czosnek - 2 ząbki", "Gałka muszkatołowa - 1 szczypta.", "Sól - 1 szczypta", "Mąka ziemniaczana - 3 łyżki "],
+      "description": "Obierz ziemniaki, zetrzyj na tarce. Odsącz masę przez sito. Zetrzyj cebulę i czosnek na tarce. Dodaj do ziemniaków cebulę, jajka i gałkę muszkatołową. Wymieszaj wszystko dobrze, dodaj mąkę, aby nadać masie odpowiednią konsystencję. Rozgrzej na patelni olej, nakładaj masę łyżką. Smaż placki z obu stron na złoty brąz i od razu podawaj.",
+      "ingredients": ["Ziemniaki", "Jajka", "MakaZiemniaczana", "Cebula", "Czosnek"],
+      "name": "Placki ziemniaczane",
+      "number": 35
+    },
+    {
+      "composition": ["Mąka pszenna - 150 gramów", "Zimne mleko - 200 mililitrów", "Jajko - 1 sztuka", "Cukier waniliowy - 1 sztuka", "Cynamon - 1 łyżeczka", "Proszek do pieczenia - 1 łyżeczka", "Jabłka - 2 sztuki", "Olej - 100 mililitrów"],
+      "description": "W misce wymieszaj mąkę, cukier, cynamon, proszek do pieczenia, jajo z zimnym mlekiem. Jabłko obierz, pokrój w małe kawałki i wymieszaj z ciastem. Placki smaż na rozgrzanej patelni, z 2 łyżkami oleju, z obu stron na złoty kolor.",
+      "ingredients": ["Ziemniaki", "Jajka", "MakaPszenna", "Jablka", "Cukier", "Mleko"],
+      "name": "Puszyste placki z jabłkami",
+      "number": 36
+    },
+    {
+      "composition": ["Duże ziemniaki - 4 sztuki", "Brokuł - 1 sztuka", "Kukurydza z puszki - 200 gramów", "Sos serowy - porcja", "Jajka - 2 sztuki", "Starty ser żółty - 150 gramów", "Olej - 5 łyżek", "Czerwona papryka - 1 sztuka", "Posiekana natka pietruszki - 2 łyżki"],
+      "description": "Ziemniaki ugotuj na półtwardo. Wystudź, a następnie zetrzyj na tarce na dużych oczkach. W ten sposób powstanie ciasto na placki ziemniaczane. Dodaj sos serowy, jajka i posiekaną natkę pietruszki. Dokładnie wymieszaj ciasto. Samodzielnie usmaż placki. Ugotuj różyczki brokułów. Wymieszać kukurydzę z serem i ugotowanymi wcześniej przez Ciebie różyczkami brokuła. Przygotowaną masę układaj wspólnie na plackach. Zapiecz w piekarniku rozgrzanym do 190 stopni, do czasu, gdy ser się lekko rozpuści. Potrawę możesz udekorować krążkami z czerwonej papryki. ",
+      "ingredients": ["Ziemniaki", "Jajka", "Brokul", "SerZolty", "Kukurydza", "Sos serowy", "Papryka", "NatkaPietruszki"],
+      "name": "Placki ",
+      "number": 37
+    },
+    {
+      "composition": ["Ser feta - 200 gramów", "Czosnek - 2 ząbki", "Jajka - 6 sztuk", "Przyprawy (własna mieszanka)", "Masło"],
+      "description": "Pokrój ser feta w kostkę. Rozmąć jaja. Dojac przeciśnity przez praskę czosnek, dopraw do smaku. Dodaj ser feta do masy jajecznej. Na patelni rozgrzej masło. Należy uważać, aby masło nie przypaliło się, inaczej potrawa będzie niesmaczna i niezdrowa. Smaż całość przez kilka minut.",
+      "ingredients": ["SerFeta", "Czosnek", "Jajka", "Maslo"],
+      "name": "Jajecznica z serem feta",
+      "number": 38
+    },
+    {
+      "composition": ["Cukinia - 1 sztuka", "Przyprawy (własna mieszanka)", "Olej słonecznikowy", "Natka pietruszki - 2 łyżki"],
+      "description": "Umyj i pokrój cukinię w plastry 1-1,5 centymetrowe. Usmaż na oleju. Odsącz na ręczniku papierowym. Dopraw i posyp posiekaną natką pietruszki.",
+      "ingredients": ["Cukinia", "NatkaPietruszki"],
+      "name": "Cukinia smażona",
+      "number": 39
+    },
+    {
+      "composition": ["Mięso wieprzowe - 500 gramów", "Mieszanka przypraw do gulaszu (papryka suszona, pieprz, sól itp.)", "Papryka - sztuka", "Cebula - 2 sztuki", "Olej - 3 łyżki", "Woda "],
+      "description": "Mięso, cebulę i paprykę pokrój w kostkę. Smaż w garnku, aż mięso nabierze lekko rumianego koloru. Wlej 2 szklanki wody, doprowadź do wrzenia, a następnie dodaj mieszankę przypraw. Gotuj na małym ogniu przez około godzinę, aż mięso będzie miękkie.",
+      "ingredients": ["Wieprzowina", "Papryka", "Cebula"],
+      "name": "Gulasz wieprzowy",
+      "number": 40
+    },
+    {
+      "composition": ["Cukinia - 1 sztuka", "Papryka czerwona - 1 sztuka", "Papryka zielona - 1 sztuka", "Papryka żółta - 1 sztuka", "Własna mieszkanka przypraw - 1 łyżka", "Cebula - 1 sztuka", "Pomidor - 1 sztuka", "Czosnek - 3 ząbki", "Olej lub inny tłuszcz do smażenia - 4 łyżki"],
+      "description": "Na patelni rozgrzej olej i duś drobno pokrojoną cebulę z posiekanym czosnkiem. Następnie dodaj cukinię pokrojoną w średnią kostkę. Gdy cukinia będzie miękka, dodaj oczyszczone z nasion i pokrojone w kawałki papryki. Pomidory sparz wrzątkiem. Obierz ze skórki i pokrój w kostkę. Gdy papryka będzie miękka, dodaj pomidory i smaż 5 minut. Dodaj przyprawy i dokładnie wymieszaj. Tak przygotowane leczo możesz podawać z pieczywem lub np. z purée ziemniaczanym na obiad.",
+      "ingredients": ["Papryka", "Cebula", "Pomidor", "Cukinia", "Czosnek"],
+      "name": "Leczo warzywne",
+      "number": 41
+    },
+    {
+      "composition": ["Cukinia - 1 sztuka", "Ser feta - 100 gramów", "Czosnek - 2 ząbki", "Sos winegret - 1 porcja", "Pomidorki koktajlowe - 100 gramów", "Świeży tymianek - 3 gałązki"],
+      "description": "Cukinię umyj i osusz. Pokrój w plastry. Czosnek posiekaj drobno. Pomidorki koktajlowe umyj i osusz, przekrój na pół. Listki tymianku oberwij z łodyżek. Rozgrzej na patelni oliwę z oliwek, zeszklij czosnek, dodaj plastry cukinii i oprósz listkami tymianku. Po chwili smażenia odstaw do ostygnięcia. Do przestudzonej cukinii dodaj pomidorki, pokruszony ser feta i sos winegret. Delikatnie wymieszaj.",
+      "ingredients": ["Pomidor", "Cukinia", "Czosnek", "SerFeta", "SosWinegret"],
+      "name": "Sałatka z cukinią i serem feta",
+      "number": 42
+    },
+    {
+      "composition": ["Mięso mielone z indyka - 400 gramów", "Własna mieszanka przypraw do mięsa - 3 łyżki", "Olej - 2 łyżki", "Papryka czerwona - 1 sztuka", "Cukinia - 1 sztuka", "Cebula - 1 sztuka", "Pomidory w puszce - 1 sztuka", "Ryż - 200 gramów"],
+      "description": "Ryż ugotuj zgodnie z instrukcją na opakowaniu. Warzywa pokrój w kostkę 2 x 2 cm. 2 łyżki Fixu wymieszaj z mięsem mielonym i dodaj szczyptę pieprzu. Uformuj małe kulki i podsmaż je na gorącym oleju przez ok. 2 minuty, przełóż mięso do garnka. Na tym samym oleju podsmaż cebulę, cukinię i paprykę, aż do uzyskania złotego koloru. Podsmażone warzywa, pomidory oraz przyprawy wymieszaj z 150 ml wody i połącz z mięsem. Wszystko razem doprowadź do wrzenia i gotuj ok. 5 min, aż sos zgęstnieje. Gotowe klopsiki podawaj z ryżem.",
+      "ingredients": ["Mielone", "PomidoryZpuszki", "Cukinia", "Papryka", "Cebula", "Ryż"  ],
+      "name": "Klopsiki w sosie pomidorowym z warzywami",
+      "number": 43
+    },
+    {
+      "composition": ["Piersi z kurczaka - 3 sztuki", "Sos serowy - 1 porcja", "Cukinia - 1 sztuka", "Cebula - 1 sztuka", "Śmietana 18% - 2 łyżki", "Oliwa - 1 łyżka"],
+      "description": "Piersi z kurczaka pokrój w grubą kostkę – około 1,5-2 cm. Cukinię oraz cebulę pokrój w podobnej wielkości kawałki. Na rozgrzanej dużej patelni przesmaż mięso, a następnie dodaj warzywa. Smaż razem 2 minuty. Na patelnię z kurczakiem i warzywami wlej sos serowy i gotuj jeszcze 5 minut. Pod koniec dodaj śmietanę i wymieszaj. Gotowe danie podawaj najlepiej z makaronem – szerokimi wstążkami. ",
+      "ingredients": ["Kurczak", "Cukinia", "SosSerowy", "Cebula", "Śmietana"],
+      "name": "Cukinia z kurczakiem w sosie serowym",
+      "number": 44
+    },
+    {
+      "composition": ["Schab - 150 gramów", "Własna mieszanka ostrych przypraw - 4 łyżki", "Żółta papryka - 100 gramów", "Cukinia - 50 gramów", "Kukurydza z puszki - 50 gramów", "Czosnek - 1 ząbek", "Ryż - 200 gramów", "Olej - 1 łyżka"],
+      "description": "Pokrój mięso w paski i podsmaż na rozgrzanej patelni. Paprykę oraz cukinię pokrój w paski, a czosnek rozetrzyj. Następnie dodaj je do mięsa, wraz z kukurydzą, i duś razem przez kilka minut. Rozmieszaj przyprawy w 250 mililitrach zimnej wody, po czym wlej do mięsa. Gotuj jeszcze przez 10 minut. Podawaj danie z ryżem.",
+      "ingredients": ["Cukinia", "Kukurydza", "Czosnek", "Wieprzowina", "Ryż", "Papryka"],
+      "name": "Schab po meksykańsku",
+      "number": 45
+    },
+    {
+      "composition": ["Ciasto francuskie - 1 opakowanie", "Własna mieszanka przypraw - 1 łyżka", "Parówki - 8 sztuk", "Cukinia - 1 sztuka", "Papryka czerwona - 1 sztuka", "Pieczarki - 4 sztuki", "Zółty ser - 8 plastrów", "Jajko - 1 sztuka"],
+      "description": "Ciasto francuskie pokrój na 8 jednakowych pasków. Cukinię oraz pieczarki umyj i pokrój w cienkie paski, a paprykę w cienkie piórka. Na każdy kawałek ciasta wyłóż plasterki pieczarek oraz cukinii. Posyp je przyprawami, a następnie połóż paprykę i plasterek sera. Parówki połóż na wierzchu tak, aby wystawały za ciasto i zawiń. Na blachę do pieczenia wyłóż papier pergaminowy i przełóż roladki. Posmaruj je roztrzepanym jajkiem i piecz w piekarniku w 180 °C przez 20 minut. Takie danie doskonale smakuje jako letnia przekąska na świeżym powietrzu.",
+      "ingredients": ["Parowki", "SerZolty", "Cukinia", "Jajka", "Papryka", "Pieczarki"],
+      "name": "Parówki w cieście francuskim z warzywami",
+      "number": 46
+    },
+    {
+      "composition": ["Mieso mielone - 300 gramów", "Ser feta - 100 gramów", "Sos pomidorowy - 1/2 porcji", "Własna mieszanka przypraw - 1 łyżka", "Świeża bazylia - parę listków", "Papryka - 5 sztuk", "Cebula - 1 sztuka", "Kuskus - 100 gramów", "Natka pietruszka - 1 pęczek", "Ser żółty - 20 gramów"],
+      "description": "Kuskus przygotuj według wskazówek umieszczonych na opakowaniu. 4 papryki umyj i odetnij z każdej z nich wierzch grubości ok 1 cm. Ostatnią paprykę pokrój w drobną kostkę. Mięso przesmaż z pokrojoną w kostkę cebulą na oliwie. Sos pomidorowy wymieszaj z 50 ml wody i wlej do mięsa – duś na wolnym ogniu ok. 10 minut. Do mięsa dołóż posiekaną paprykę, kuskus oraz pokruszoną fetę – wymieszaj. Następnie farsz nałóż do każdej z papryk. Natkę posiekaj drobno. Ser żółty zetrzyj na tarce i wymieszaj z natką – posyp wierzch nafaszerowanych papryk. Gotowe papryki ułóż w naczyniu żaroodpornym i wstaw do nagrzanego piekarnika. Zapiekaj w temp 180 °C przez ok. 45 minut. Udekoruj listkami bazylii.",
+      "ingredients": ["Mielone", "SerFeta", "Papryka", "Cebula", "SerZolty"],
+      "name": "Papryka faszerowana mięsem",
+      "number": 47
+    },
+    {
+      "composition": ["Parówki cielęce - 8 sztuk", "Własna mieszanka przypraw - 1 łyżka", "Żółty ser - 8 plastrów", "Mąka pszenna", "Woda gazowana - 100 mililitrów", "Mleko - 250 mililitrów", "Bułka tarta - 0.5 szklaki", "Jajka - 3 sztuki", "Olej - mililitrów"],
+      "description": "Mąkę wsyp do miseczki, dodaj 2 jajka, wodę i 200 ml mleka, po czym energicznie wymieszaj, tak aby powstała jednolita płynna gęsta masa. Na dużej patelni usmaż naleśniki. 1 jajko zmieszaj z 50 ml mleka i przyprawami. Na naleśniki ułóż plastry sera i parówki, obtaczaj w jajku i kolejno w bułce tartej. Na patelnie wlej olej rozgrzej go i smaż parówki w cieście do zrumienienia. Gotowe danie podawaj z ulubioną surówką.",
+      "ingredients": ["Parówki", "Mleko", "Jajka", "MakaPszenna", "SerZolty"],
+      "name": "Parówki w cieście naleśnikowym z serem",
+      "number": 48
+    },
+    {
+      "composition": ["Parówki - 6 sztuk", "Boczek wędzony - 12 platrów", "Pomidory z puszki - 600 gramów", "Cebula - 1 sztuka", "Cukinia - 1 sztuka", "Papryka czerwona - 1 sztuka", "Czosnek - 1 ząbek", "Oliwa - 3 łyżki", "Bulionetka - sztuka"],
+      "description": "Parówki przekrój na pół, a następnie każdą z połówek zawiń w boczek i ułóż na blasze wyłożonej pergaminem. Cebulę, cukinię i paprykę pokrój w 2-3 cm kawałki i przesmaż wraz z czosnkiem na rozgrzanej oliwie. Dodaj pomidory z puszki oraz Bulionetkę – całość duś na małym ogniu 5 minut. Dopraw do smaku, jeśli uważasz to za konieczne. Parówki wstaw do nagrzanego do 180 °C piekarnika i piecz ok. 10 minut – do momentu, gdy boczek się zapiecze. Gotowy pomidorowy sos przelej do żaroodpornego naczynia, następnie ułóż na nim zapieczone parówki i udekoruj listkami pietruszki. Podawaj natychmiast.",
+      "ingredients": ["Parówki", "Boczek", "PomidoryZpuszki", "Cukinia", "Cebula", "Czosnek", "Papryka"],
+      "name": "Zapiekane parówki w sosie pomidorowym",
+      "number": 49
+    },
+    {
+      "composition": ["Parówki - 3 sztuki", "Sos pomidorowy - 1 porcja", "Starty żółty ser - 50 gramów", "Papryka mielona - 1 łyżka"],
+      "description": "Przygotuj Sos pomidorowy. Pozbaw parówki osłonek, następnie pokrój w plasterki. Pod koniec gotowania dodaj parówki oraz żółty ser. Dopraw do smaku mieloną papryką. Sos pomidorowy z parówkami podawaj do makaronu, ryżu, mięsa.",
+      "ingredients": ["Parówki", "SosPomidorowy", "SerZolty"],
+      "name": "Sos pomidorowy z parówkami",
+      "number": 50
+    }
+  ],
+  "vegetables" : [
+    {
+      "name": "Ziemniaki",
+      "number": 0,
+      "description": "Do gotowania, należy dobrać ziemniaki tej samej wielkości lub pokroić je na podobne kawałki. Następnie trzeba je opłukać pod zimną wodą i wrzucić do gotującej się wody. Najlepiej gotować ziemniaki na średnim ogniu – gotowanie ma trwać od 20 do 30 minut. Po 20 minutach sprawdzić nożem czy są już miękkie, jeżeli nóż gładko wchodzi w ziemniaki to znak, że są już gotowe. Po ugotowaniu ziemniaków, należy je odcedzić i ewentualnie opłukać.",
+      "values": "Ziemniaki obfitują w potas obniżający ciśnienie krwi oraz magnez, który jest budulcem zębów i kości, poprawia przemianę materii, łagodzi stany zmęczenia i stres. Mają też nieco wapnia, żelaza i fosforu. Dostarczają także niemal wszystkich witamin – najwięcej jest w nich witaminy C.",
+      "image": "https://www.sadowniczy.pl/pol_pl_Ziemniaki-Sunita-1kg-158462_1.jpg"
+    },
+    {
+      "name": "Fasolka szparagowa",
+      "number": 1,
+      "description": "Aby fasolka zachowała jak największą liczbę składników odżywczych, witamin oraz minerałów – zaleca się gotować ją na parze. Dzięki gotowaniu w ten sposób, zachowa ona również pyszny smak, chrupkość, soczystość oraz kolor. Z powodzeniem można ugotować ją także we wrzącej wodzie. Przygotowaną i umytą fasolkę należy wrzucić do garnka z zimną wodą. Na 500 g fasolki potrzebne będą 2 litry wody, 1 łyżka cukru i 1 płaska łyżeczka soli. Czas gotowania fasolki szparagowej uzależniony jest od jej gatunku oraz czy jest młoda lub starsza. Krótszego czasu gotowania wymagać będzie oczywiście młodsza żółta fasolka: 5 – 15 minut. Zielona fasolka wymaga dłuższego czasu gotowania: ok. 15 – 20 minut. Fasolkę szparagową starszą, należy gotować kilka minut dłużej. W trakcie gotowania, warto sprawdzać jej miękkość. Ugotowaną fasolkę szparagową należy odcedzić na sitku.",
+      "values": "Zielona szparagówka zawiera więcej witaminy A i kwasu foliowego niż żółta, dlatego jest zalecana kobietom w ciąży, cukrzykom, a także osobom z niedoborem żelaza. Natomiast żółta jest bogatsza w potas i fosfor.",
+      "values2": "Dzięki zawartości witaminy C szparagówka wzmacnia system odpornościowy, który w organizmie stanowi ochronę przed większością chorób, w tym chorób nowotworowych. Świeża fasolka zawiera aglutyninę, która pełni ważną rolę w budowaniu odporności organizmu.",
+      "image": "https://gurbacka.pl/wp-content/uploads/2016/03/zielona-fasolka-szparagowa.jpg"
+    },
+    {
+      "name": "Kalafior",
+      "number": 2,
+      "description": "Średniej wielkości kalafior, należy gotować bez przykrycia, mniej więcej 15 minut. Po 15 minutowym gotowaniu, należy sprawdzić czy kalafior jest wystarczająco miękki. Można to zrobić wbijając widelec w różyczki – jeżeli łatwo wchodzi oznacza, że już jest ugotowany. Jeżeli wolisz bardziej al dente – skróć czas gotowania.",
+      "values": "Kalafior należy do grupy pokarmów roślinnych o najsilniejszym potencjale antynowotworowym. Potwierdzają to badania naukowe. Spożywanie kalafiora, a także brokułów, może zmniejszyć ryzyko rozwoju agresywnego raka prostaty - przekonują naukowcy z Ameryki Północnej i Kanady na łamach pisma \"Journal of the National Cancer Institute\". Ich zdaniem kalafiory i brokuły zawierają wiele substancji, które mogą mieć działanie przeciwnowotworowe.",
+      "values2": "Również badacze z Rutgers' Ernest Mario School of Pharmac są zdania, że kalafior to skuteczna broń w profilaktyce raka prostaty, zwłaszcza w połączeniu z curry. Jak wynika z badań, występująca w tej popularnej przyprawie substancja - kurkumina - może zapobiegać rozwojowi nowotworów, zwłaszcza w połączeniu z izotiocyjanianem fenetylowym (PEITC) - substancją, która występuje w warzywach, takich jak kapusta, brukselka, kalafior, brokuły czy  rzepa.",
+      "image": "https://www.medianauka.pl/biologia/grafika/rosliny/kalafior.jpg"
+    },
+    {
+      "name": "Kukurydza",
+      "number": 3,
+      "description": "Przygotowaną kukurydzę należy wrzucić do garnka z wrzątkiem i gotować ok. 15 minut, aż ziarna staną się miękkie. Dłuższy czas gotowania, sprawi że ziarna kukurydzy staną się twarde, łykowate i niesmaczne. Z tego samego powodu, nie należy solić wrzątku. Za to warto dodać do gotującego się wody jedną łyżeczkę cukru aby uzyskać słodszy smak kukurydzy. Ugotowaną kukurydzę należy odsączyć z wody na durszlaku i przełożyć na talerz.",
+      "values": "100 g świeżych ziaren kukurydzy dostarcza organizmowi 365 kcal, a kukurydza konserwowa - ok. 100 kcal (w zależności od ilości soli i cukru w roztworze wodnym). Kukurydza ma 60-70 proc. skrobi, sporo błonnika, białko, witaminy z grupy B, a także D, E, K oraz prowitaminę A. Kukurydza to również dobre źródło składników mineralnych.",
+      "values2": "Selen wraz z witaminą E i beta-karotenem broni nas przed działaniem wolnych rodników, zwiększa odporność i przedłuża młodość. Ma dwa silne antyoksydanty należące do karotenoidów: luteinę i zeaksantynę, które pomagają chronić plamkę żółtą oka przed zwyrodnieniem.",
+      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "name": "Brokuł",
+      "number": 4,
+      "description": "W garnku zagotowujemy sporą ilość wody, którą solimy i doprawiamy odrobiną cukru (na 2,5l wody płaska łyżeczka soli i spora szczypta cukru). Na wrzątek wrzucamy umyte różyczki brokuła. Warzywa gotujemy ok 5-7 min (liczone od momentu aż woda zacznie wrzeć).",
+      "values": "Brokuły wykazują właściwości antynowotworowe dzięki zwartości sulforafanu - silnego przeciwutleniacza, który blokuje powstawanie nowotworowych mutacji DNA oraz ułatwia likwidację komórek tworzącego się nowotworu. Sulforafan może uchronić m.in. przed rakiem prostaty, piersi, płuc i jelita grubego, jednak tylko pod warunkiem, że brokuły będą odpowiednio ugotowane - zaznaczają naukowcy z University of Illinois na łamach \"Journal of Food Science\".",
+      "values2": "Brokuły mogą na jakiś czas złagodzić objawy autyzmu - przekonują naukowcy ze Szpitala Dziecięcego MassGeneral i Uniwersytetu Medycznego Johna Hopkinsa (USA) na łamach czasopisma \"PNAS\". Wszystko dzięki zawartości sulforafanu, który chroni przed stanem zapalnym wywoływanym przez stres oksydacyjny, charakterystyczny dla osób z autyzmem. Jak twierdzą badacze, terapia z zastosowaniem tej substancji poprawia ogólne funkcjonowanie chorych. Jak wynika z badań, pacjenci, którzy do tej pory nie porozumiewali się głosem, mową ani gestem, stali się bardziej komunikatywni (np. podają drugiemu człowiekowi rękę). Ograniczone zostały także ich dziwne zachowania. Niestety, efekty terapii są tylko czasowe i ustępują wraz z jej zakończeniem.",
+      "image": "https://res.cloudinary.com/dj484tw6k/f_auto,q_auto,fl_progressive,c_pad,b_white,w_320,h_320/dpr_2/v1499864921/be/4042.jpg"
+    },
+    {
+      "name": "Kapusta",
+      "number": 5,
+      "description": "Pokrojoną kapustę wkładamy do małej ilości zimnej wody, jeżeli zależy nam na tym, żeby jej smak i aromat przeszły do wywaru (np. gotując zupę lub barszcz). Jeżeli gotujemy kapustę jako osobne danie, wrzucamy poszatkowaną kapustę do gotującej się wody – dzięki temu zachowa najwięcej swoich soków. Kapustę gotujemy przez 15–25 minut. Czas zaczynamy odliczać od momentu ponownego zagotowania się wody. Zaraz po nastawieniu solimy (ok. 2 łyżeczki na 1 litr wody). Warto również lekko posłodzić (ok. 1 łyżeczka na 1 litr wody). Po zagotowaniu odkrywamy garnek, żeby ulotniły się olejki o nieprzyjemnym zapachu, potem dogotowujemy pod przykryciem. Aby sprawdzić, czy kapusta jest już ugotowana, można wbić widelec lub nóż. Jeżeli wchodzi miękko, jest gotowa.",
+      "values": "Szczególne właściwości lecznicze ma sok z kapusty. Picie go wzmacnia odporność, pomaga na anemię i obrzęki spowodowane nadmiernym zatrzymywaniem płynów w organizmie. Po trzech tygodniach codziennej szklanki soku te ostatnie znikają bez śladu.",
+      "values2": "Kapuściany sok to także uznawane nawet przez medycynę lekarstwo na wrzody żołądka. W ludowej praktyce stosuje się okłady z soku lub liści na bóle reumatyczne i neuralgiczne oraz przy leczeniu ranek i wrzodów. Coraz głośniej mówi się o właściwościach przeciwnowotworowych kapusty - obecne w niej związki chemiczne (indole) pomagają w profilaktyce raka o podłożu hormonalnym: raka jajników, piersi, prostaty i jąder.",
+      "image": "https://ocdn.eu/images/pulscms/MWI7MDA_/07fe19dc07263744fc6950375ca85b0b.jpg"
+    },
+    {
+      "name": "Kapusta kiszona",
+      "number": 6,
+      "description": "Kapustę kiszoną włożyć do garnka, zalać niewielką ilością wody, dodać listek laurowy, angielskie ziele, owoce jałowca i gotować pod przykryciem około 15 minut.",
+      "values": "Kapusta kiszona zawiera witaminę C, magnez, potas, żelazo i wapń. Jest także świetnym źródłem witamin z grupy B, witaminy A, E oraz K. Z uwagi na obecność bakterii kwasu mlekowego, powstających w procesie fermentacji, jest produktem bardzo zdrowym, zalecanym w profilaktyce chorób układu pokarmowego i dla zachowania właściwej flory bakteryjnej jelit. Jest również źródłem błonnika pokarmowego, co szczególnie przydatne jest dla osób odchudzających się lub cierpiących na zaparcia. Błonnik pozwala również obniżyć poziom cholesterolu we krwi, co zapobiega rozwojowi miażdżycy i chorób serca. ",
+      "values2": "Kapustę kiszoną jest świetna dla osób mających problemy z wrzodami i nadżerkami żołądka. Wynika to z faktu, że sok z kiszonej kapusty łagodzi działanie kwasów oraz soli, dzięki czemu łagodzi tym samym dolegliwości bólowe. Sok z kiszonej kapusty działa również detoksykująco, dzięki czemu pozwala na usunięcie szkodliwych substancji z organizmu. ",
+      "image": "https://www.mojegotowanie.pl/media/cache/default_view/uploads/media/default/0001/74/9cf9ef0356b3c1d9f02f0f54b7253d39633dc34c.jpeg"
+    },
+    {
+      "name": "Burak",
+      "number": 7,
+      "description": "Bez obierania układam buraki w dużym garnku i dopełniam wodą. Całe buraki powinny być przykryte. Gotuję przez około 40-60 minut zależnie od wielkości. Małe buraki będą ugotowane po 30 minutach duże i bardzo duże wymagają więcej czasu.",
+      "values": "Mimo że buraki nie są bogatym źródłem żelaza, to wspaniały środek krwiotwórczy, dawno uznany przez medycynę naturalną. Zapobiega anemii, co więcej, wspomaga leczenie białaczki. Zawarte w burakach barwniki należą do bardzo silnych przeciwutleniaczy i czterokrotnie zwiększają przyswajanie tlenu przez komórki. Wspomagają więc układ krwionośny.",
+      "values2": "Kwas foliowy, w który obfitują buraki, nie tylko warunkuje prawidłowy rozwój płodu, ale też pomaga usunąć z krwiobiegu homocysteinę - jej wysoki poziom może wywołać choroby serca. Buraki pomagają unormować poziom cholesterolu, przeciwdziałają też zwapnieniom naczyń krwionośnych.",
+      "image": "https://cdn.shopify.com/s/files/1/0367/3365/articles/LYOFOOD-freeze-dried-organic-beetroot-powders-EU-01.jpg?v=1490868441"
+    },
+    {
+      "name": "Marchew w całości",
+      "number": 8,
+      "description": "Młode marchewki gotujemy w całości, w osolonym wrzątku nie dłużej niż 10 minut (nie obieramy ich). Większe okazy pozbawiamy skórki i kroimy na 4 lub więcej części, a dopiero potem wrzucamy do gotującej się wody. Wyjmujemy, gdy są „trochę” miękkie.",
+      "values": "Beta-karoten zapewnia prawidłowe funkcjonowanie wzroku, wzmacnia odporność, a także wspomaga leczenie trądziku i opóźnia pojawianie się zmarszczek. Jednak najbardziej jest znany z tego, że przyśpiesza opalanie i przedłuża efekty kąpieli słonecznych. Powszechnie uważa się, że codziennie należy pić 2 szklanki soku z marchwi, by cieszyć się skórą muśniętą słońcem. Nie należy jednak przesadzać z jego ilością, gdyż wówczas nie osiągnie się pięknej opalenizny, lecz skóra z czasem zyska marchewkowy kolor (tzw. karotenoza lub karotenemia). Poza tym nadmierne spożycie beta-karotenu oznacza, że w organizmie dochodzi do nadmiernej produkcji witaminy A, co nie jest korzystne dla zdrowia. Witamina A w zbyt dużych ilościach jest toksyczna i może doprowadzić do powiększenia wątroby, nadmiernej pobudliwości, chorób skóry oraz zaburzeń ze strony wzroku.",
+      "image": "https://www.carrefour.pl/images/product/org/marchew-luz-7dffrt.jpg"
+    },
+    {
+      "name": "Bób",
+      "number": 9,
+      "description": "Umyty pod bieżącą wodą bób umieść w garnku i zalej wodą (której powinno być dwa razy więcej niż bobu). Dosyp płaską łyżeczkę cukru. Gdy woda zacznie się gotować, dosyp szczyptę soli i gotuj pod przykryciem na średnim ogniu około 15–20 minut (aż ziarna bobu zmiękną, a skórka stanie się pomarszczona).",
+      "values": "Bób może pomóc kontrolować wagę, ponieważ spowalnia proces trawienia i na długo daje uczucie sytości. Ponadto jest bogaty w kwas foliowy i witaminy z grupy B - substancje niezbędne do prawidłowego funkcjonowania układu nerwowego. W związku z tym bób pomoże przetrwać kryzys w czasie odchudzania.",
+      "values2": "Bób jest pomocny w leczeniu zarówno niedokrwistości mikrocytarnej - będącej konsekwencją niedoboru żelaza, jak i i anemii megaloblastycznej, spowodowanej niedoborem kwasu foliowego i witaminy B12.",
+      "image": "https://www.guiltfree.pl/blog/wp-content/uploads/2016/05/kalorie-b%C3%B3b.jpg"
+    },
+    {
+      "name": "Fasola",
+      "number": 10,
+      "description": "Nasiona moczymy 1–2 godziny w bardzo gorącej wodzie, w tym czasie kilka razy dolewamy wrzątku. Następnie wylewamy wodę, fasolę zalewamy świeżą wodą i gotujemy dopóki nie zmięknie. Fasolę można też zalać zimną wodą, szybko zagotować, odcedzić, znów zalać wodą i gotować na średnim ogniu dopóki nie będzie gotowa.",
+      "values": "Fasola ma też lekkostrawną skrobię i substancje hamujące rozrost tkanek nowotworowych (inhibitory proteazy), a także rozpuszczalny błonnik, który pomaga usuwać z organizmu nadmiar cholesterolu. Niestety ma także wady - powoduje wzdęcia i gazy.",
+      "values2": "Niestety fasola z puszki, podobnie jak groszek czy kukurydza, to niezbyt zdrowy wybór. Wnętrze puszek pokrywane jest bisfenolem (BPA). BPA ma budowę zbliżoną do żeńskiego hormonu płciowego – estrogenu, dlatego może oddziaływać na funkcjonowanie układu hormonalnego.",
+      "image": "https://www.gryczanka.pl/images/3059af6a593ffa6bfb6c8ccb28a4049e.jpg"
+    },
+    {
+      "name": "Groch",
+      "number": 11,
+      "description": "Groch zagotowujemy, zdejmujemy pianę, zmniejszamy granie. Gotujemy ok 25 min dla grochu wcześniej moczonego lub ok 45 min dla grochu suchego – do momentu aż groch zacznie się rozpadać. Groch cały gotujemy dwa razy dłużej postępują ze wszystkim jak wyżej.",
+      "values": "Groch jest przede wszystkim dobrym źródłem białka. Dostarcza też składniki mineralne, takie jak żelazo, wapń, fosfor, magnez, potas. Poza tym zawiera witaminy z grupy B, które chronią układ nerwowy i pomagają zapobiegać stanom lękowym i depresji oraz łagodzą skutki stresu.",
+      "values2": "Groch, a konkretnie proteiny (białka) w nim zawarte, mogą pomóc osobom zmagającym się z nadciśnieniem tętniczym i przewlekłą chorobą nerek, przekonują kanadyjscy naukowcy z University of Manitoba. Jak czytamy na łamach \"Journal of Agricultural and Food Chemistry\"³, białko zawarte w grochu może opóźnić lub zapobiec zaburzeniom funkcji nerek u osób z nadciśnieniem. Z kolei tym, którzy cierpią na przewlekłą chorobę nerek, białko pomoże uregulować ciśnienie, dzięki czemu osoby te będą mogły żyć dłużej.",
+      "image": "https://www.badapak.pl/images/items/4/groch-ziarno_top.jpg"
+    },
+    {
+      "name": "Jarmuż",
+      "number": 12,
+      "description": "Liście jarmużu myjemy i wycinamy z nich grube, łykowate łodygi. Kroimy je na kawałki i obgotujemy kilka minut w osolonej wodzie. Nie dłużej, bo straci swój piękny kolor i wartości. Tak przygotowane obsmażamy na maśle z ulubionymi dodatkami - czosnkiem, jajkiem, czy suszonymi pomidorami.",
+      "values": "Jarmuż zwiera karotenoidy (beta karoten, luteinę, zeaksantynę) - przeciwutleniacze, które również hamują szkodliwe procesy oksydacyjne, a co za tym idzie - mogą zapobiegać rozwojowi chorób nowotworowych. Dowiedziono, że spożycie karotenoidów może obniżyć występowanie takich nowotworów, jak: rak jamy ustnej, krtani, przełyku i pęcherza moczowego.",
+      "values2": "Jarmuż jest także skarbnicą innej antynowotworowej substancji - witaminy K, która również hamuje rozwój niektórych nowotworów, m.in. nowotworów piersi, nowotworów jajnika, okrężnicy, pęcherzyka żółciowego, wątroby. Jak przekonują specjaliści z Instytutu Żywności i Żywienia, jej niedobór może być przyczyną zwiększonego ryzyka rozwoju nowotworów.",
+      "image": "https://cdn.galleries.smcloud.net/t/galleries/gf-GYvF-QRw9-NjKD_jarmuz-wlasciwosci-i-wartosci-odzywcze-przepisy-na-dania-z-jarmuzu-664x442-nocrop.jpg"
+    }
+  ],
+  "other" : [
+    {
+      "name": "Jajka",
+      "number": 0,
+      "description": "Czas gotowania jajek powinien być liczony od momentu zagotowania się wody. Na twardo gotuje się je od 8 do 10 minut, w zależności od ich rozmiaru. Zbyt długie trzymanie ich w gorącej wodzie, źle wpłynie na smak i spowoduje powstawanie nieestetycznych przebarwień na żółtku. Po ugotowaniu zanurz jajka w zimnej wodzie.",
+      "image": "https://hpba.pl/wp-content/uploads/2013/01/jajka.jpg",
+      "values2": "Jajka są przede wszystkim źródłem pełnowartościowego białka, łatwo przyswajalnego przez organizm. To białko wzorcowe, zawierające wszystkie aminokwasy, w tym niezbędne, których organizm nie potrafi sam wyprodukować, i to w odpowiednich ilościach.",
+      "values": "Jajka nie dość, że są niskokaloryczne, to zawierają 13 witamin i minerałów, wzorcowe białko i antyoksydanty. Są źródłem wielu witamin m. in. A, E, D, K oraz B2, B9 i B12, kwasu pantotenowego oraz składników mineralnych: fosforu, potasu, wapnia, żelaza, cynku i magnezu, selenu i jodu."
+    },
+    {
+      "name": "Ryż",
+      "number": 1,
+      "description": "Przed gotowaniem trzeba ryż wypłukać. Robimy to do czasu, aż woda stanie się czysta, i dopiero wtedy gotujemy. Najpopularniejsza metoda gotowania ryżu polega na absorpcji wody przez ryż podczas gotowania. Wsyp np. jedną szklankę ryżu, zalej 2 szklankami zimnej osolonej wody. Zamieszaj i zagotuj. Następnie przykryj garnek pokrywką w taki sposób, aby para mogła swobodnie wychodzić, zmniejsz ogień i gotuj. Gdy ryż wchłonie już całą wodę, a na jego powierzchni zaczną tworzyć się tzw. kratery, całkowicie przykryj garnek, zmniejsz ogień i gotuj jeszcze ok. 12-15 minut.",
+      "image": "https://www.gryczanka.pl/images/078bac20e1211525e56b129ad1f38a11.jpg",
+      "values": "Jest źródłem węglowodanów, białka (niepełnowartościowego), tłuszczów wielonienasyconych, błonnika. Obfituje w magnez, cynk, fosfor, żelazo, mangan, miedź, selen. Posiada witamin z grupy B (B1, B2, PP, B5, B6, kwas foliowy)."
+    }
+    ],
+  "groats": [
+    {
+      "name": "Kasza bulgur",
+      "number": 0,
+      "description": "1/2 szklanki kaszy bulgur wsypać do garnka i wypłukać 2 - 3 krotnie letnią wodą, odcedzić. Wlać świeżą wodę w ilości 1 szklanki, dodać szczyptę soli i zagotować pod przykryciem. Zmniejszyć ogień i gotować przez ok. 15 minut aż kasza będzie miękka i wchłonie cały płyn.",
+      "image":"https://www.badapak.pl/images/items/316/kasza-bulgur-z-calego-ziarna_big.jpg"
+    },
+    {
+      "name": "Kasza pęczak",
+      "number": 1,
+      "description": "Pęczak w garnku zalewamy 3-3,5 szklankami wrzątku, solimy. Możemy dodać tu też łyżkę dobrej oliwy czy masła dla smaku. Kaszę zagotowujemy, zmniejszamy grzanie do minimum i gotujemy na minimalnym ogniu, pod przykrywką aż pęczak wypije wodę, zmięknie i rozklei się.",
+      "image": "https://i.wpimg.pl/O/555x385/i.wp.pl/a/f/kuchnia/58011757/-EDYSK_2-galerie_nowe-kasze-kasza_peczak136191176.jpg"
+    },
+    {
+      "name": "Kasza jęczmienna",
+      "number": 2,
+      "description": "Jedną szklankę kaszy łamanej ( wiejskiej, perłowej lub mazurskiej) wsypuję na sito, dokładnie płuczę pod kranem, aż zacznie lecieć czysta woda. Do garnka wlewam 2 i 1/3 szklanki wody. Solę dolewam łyżkę lub dwie oleju i zagotowuje pod przykryciem. Wrzucam kaszę, mieszam i przykrywam. Od ponownego zagotowania wody zmniejszam gaz na malutki. Gotuję pod przykryciem około 15-20 minut zależnie od gramatury kaszy. Nie mieszam w trakcie. Wyłączam gaz zostawiam kaszę jeszcze na jakieś 15 minut, aby wciągnęła całą wodę i się wyprażyła na sypko.",
+      "image": "https://www.badapak.pl/images/items/39/kasza-jeczmienna-gruba-perlowa-2_big.jpg"
+    },
+    {
+      "name": "Kasza gryczana ",
+      "number": 3,
+      "description": "Proporcje mają się następująco: na jedną szklankę kaszy (250 g) należy odmierzyć 1 i ¾ szklanki wody. Do garnka wlewamy wodę i dodajemy łyżkę oleju i odrobinę soli. Gdy woda zacznie wrzeć, wsypujemy kaszę i czekamy, aż całość znowu się zagotuje. Grykę należy gotować jeszcze przez ok. 7 minut pod przykryciem, na zmniejszonym ogniu. Aby ziarna nie przywarły do spodu, od czasu do czasu warto zamieszać. Po wchłonięciu całej wody warto odstawić garnek na ok. 30 minut.",
+      "image": "https://www.aromatika.com.pl/userdata/public/gfx/a621a2fc889864b0edba2670e3c7eece.jpg"
+    },
+    {
+      "name": "Kasza kuskus",
+      "number": 4,
+      "description": "Czas gotowania jajek powinien być liczony od momentu zagotowania się wody. Na twardo gotuje się je od 8 do 10 minut, w zależności od ich rozmiaru. Zbyt długie trzymanie ich w gorącej wodzie, źle wpłynie na smak i spowoduje powstawanie nieestetycznych przebarwień na żółtku. Po ugotowaniu zanurz jajka w zimnej wodzie.",
+      "image": "https://www.aromatika.com.pl/environment/cache/images/500_500_productGfx_1bda7819751c0f98760a4c9cc4b16816.jpg"
+    }
+  ],
+  "pasta" : [
+    {
+      "name": "Spaghetti - długie nitki",
+      "number": 0,
+      "description": "Makaron gotujemy bez przykrycia. Jeżeli chcemy ugotować go al dente (lekko twardy) czas wynosi 7 – 9 minut (zależy to od grubości ciasta). Natomiast jeżeli chcemy uzyskać makaron lekko rozgotowany trzymamy go troszkę dłużej, około 9 – 11 minut.",
+      "image": "https://cdn.shopify.com/s/files/1/0367/4642/8547/products/makaron-spaghetti.jpg?v=1607142183",
+      "values": "Gotowanie makaronu spaghetti po raz pierwszy może wydawać się skomplikowane, ponieważ długie nitki nie mieszczą się do garnka.\n Makaron wkładaj tylko do wrzącej wody. \n Długi makaron spaghetti nie zmieści się w całości do garnka, wkładaj go więc stopniowo.\n    Najpierw zanurz we wrzątku tylko część makaronu. Kiedy część umieszczona w wodzie zmięknie, wkładaj spaghetti coraz głębiej, aż cały makaron znajdzie się w wodzie.\n    Mieszaj makaron przez cały czas gotowania.\n"
+    },
+    {
+      "name": "Tagliatelle – gniazda, wstążki",
+      "number": 1,
+      "description": "Na 100g makaronu użyć 1 litr osolonej wody. Do wrzącej wody należy wrzucić makaron i dokładnie zamieszać. Gotować 9 minut, a następnie odcedzić. Makaron jest ugotowany \"al dente\" i wyśmienicie smakuje.",
+      "image": "https://winotoskanii.pl/pol_pl_Barilla-Emiliane-Tagliatelle-n-174-makaron-jajeczny-250g-1109_2.jpg"
+
+    },
+    {
+      "name": "Fettuccine - wstążki",
+      "number": 2,
+      "description": "Wrzucamy makaron fettuccine do gotującej się osolonej wody (1 litr wody na każde 100g makaronu, 1 łyżeczka soli na 2 litry wody). Od razu mieszamy, żeby zapobiec przyklejeniu się makaronu do ścianek garnka. W zależności od producenta, czas gotowania fettuccine wynosi pomiędzy 8 a 10 minut.",
+      "image": "https://thumbs.dreamstime.com/b/fettuccine-w%C5%82oski-makaron-odizolowywaj%C4%85cy-na-bia%C5%82ym-tle-87208836.jpg"
+    },
+    {
+      "name": "Fusilli - świderki",
+      "number": 3,
+      "description": "Wrzucamy makaron świderki do gotującej się osolonej wody (1 litr wody na każde 100g makaronu, 1 łyżeczka soli na 2 litry wody). Od razu mieszamy, żeby zapobiec przyklejeniu się makaronu do ścianek garnka. W zależności od producenta, czas gotowania fusilli wynosi między 7 a 10 minut.",
+      "image": "https://thumbs.dreamstime.com/b/stos-fusilli-z%C5%82oty-makaron-27443188.jpg"
+    },
+    {
+      "name": "Penne – rurki",
+      "number": 4,
+      "description": "Wrzucamy makaron penne do gotującej się osolonej wody (1 litr wody na każde 100g makaronu, 1 łyżeczka soli na 2 litry wody). Od razu mieszamy, żeby zapobiec przyklejeniu się makaronu do ścianek garnka. W zależności od producenta, czas gotowania penne wynosi pomiędzy 8 a 12 minut.",
+      "image": "https://thumbs.dreamstime.com/b/penne-w%C5%82oski-surowy-makaron-bia%C5%82y-t%C5%82o-28099368.jpg"
+    },
+    {
+      "name": "Conchiglioni – muszle",
+      "number": 5,
+      "description": "Wrzucamy makaron conchiglie do gotującej się i osolonej wody (1 litr wody na każde 100g makaronu, 1 łyżeczka soli na 2 litry wody). Od razu mieszamy, żeby zapobiec przyklejeniu się makaronu do ścianek garnka. W zależności od producenta, czas gotowania muszelek wynosi pomiędzy 7 a 10 minut.",
+      "image": "https://thumbs.dreamstime.com/b/conchiglioni-makaronu-porci-rigati-10556076.jpg"
+    },
+    {
+      "name": "Canneloni - duże rurki",
+      "number": 6,
+      "description": "Wrzucamy makaron cannelloni do gotującej się, osolonej wody (1 litr wody na każde 100g makaronu, 1 łyżeczka soli na 2 litry wody). Od razu mieszamy, żeby zapobiec przyklejeniu się makaronu do ścianek garnka. Nie przykrywamy garnka. Cannelloni gotujemy przez 3–4 minuty. Czas zaczynamy odliczać od momentu ponownego zagotowania się wody. Mieszamy co 2 minuty.",
+      "image": "https://thumbs.dreamstime.com/b/cannelloni-makaron-w-stercie-nad-bia%C5%82ym-t%C5%82em-30245306.jpg"
+    },
+    {
+      "name": "Lasagne - płaty",
+      "number": 7,
+      "description": "Do przygotowania lasagne jedni używają surowego makaronu, inni najpierw lekko go obgotowują. I czasem narzekają, że podczas gotowania płaty ciasta się sklejają. Tymczasem wystarczy je przez 2-3 minuty obgotować w lekko osolonej wodzie z dodatkiem oleju. I robić to partiami, w szerokim rondlu lub w wysokiej patelni.",
+      "image": "https://wszystkoojedzeniu.pl/site/assets/files/65729/makaron-lasagne.650x0.jpg"
+    },
+    {
+      "name": "Orzo - ryż",
+      "number": 8,
+      "description": "Na każde 100 g makaronu należy użyć 1 l wody i 10 g soli. Wrzucić makaron do osolonej, wrzącej wody i zamieszać. Gotować 13 do 15 minut, od czasu do czasu mieszając.",
+      "image": "https://thumbs.dreamstime.com/b/rozsypisko-surowy-orzo-makaron-57299372.jpg"
+    }
+  ]
+}
