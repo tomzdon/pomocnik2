@@ -101,11 +101,12 @@ const Login = (props) => {
                 onClick={handleSubmit}
                 style={{ marginBottom: 20 }}
                 variant="contained"
+                color="primary"
               >
                 Zaloguj
               </Button>
               <p>{en.FORM_FIELDS.LOGIN_ALT_TEXT}</p>
-              <Link to="/rejestracja">Sign up</Link>
+              <Link to="/rejestracja">Zarejestruj się</Link>
             </Grid>
           </Grid>
         </form>

@@ -102,6 +102,7 @@ const Register = (props) => {
                 onClick={handleSubmit}
                 style={{ marginBottom: 20 }}
                 variant="contained"
+                color="primary"
               >
                 Zarejestruj
               </Button>

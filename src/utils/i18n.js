@@ -9,10 +9,10 @@ const en = {
     EMAIL: "E-mail",
     PASSWORD: "Password",
     RETYPE_PASSWORD: "Retype Password",
-    SIGNUP: "Sign Up",
+    SIGNUP: "Zarejestruj się",
     LOGIN: "Login",
     SIGNUP_ALT_TEXT: "Existing user?",
-    LOGIN_ALT_TEXT: "New user?",
+    LOGIN_ALT_TEXT: "Czy jesteś nowym użytkownikiem?",
   },
 
   ERRORS: {
