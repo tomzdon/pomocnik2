@@ -1,5 +1,5 @@
 import React from 'react'
-import './Spinner.scss'
+import './Spinner.css'
 
 function Spinner() {
   return <div className="spinner-border text-dark Spinner" role="status">
