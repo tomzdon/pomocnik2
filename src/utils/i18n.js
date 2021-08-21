@@ -12,7 +12,7 @@ const en = {
     SIGNUP: "Sing up",
     LOGIN: "Login",
     SIGNUP_ALT_TEXT: "Existing user?",
-    LOGIN_ALT_TEXT: "Czy jesteś nowym użytkownikiem?",
+    LOGIN_ALT_TEXT: "Czysf jesteś nowym użytkownikiem?",
   },
 
   ERRORS: {
