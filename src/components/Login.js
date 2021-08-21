@@ -106,7 +106,7 @@ const Login = (props) => {
                 Zaloguj
               </Button>
               <p>{en.FORM_FIELDS.LOGIN_ALT_TEXT}</p>
-              <Link to="/rejestracja">Zarejestrujd się</Link>
+              <Link to="/rejestracja">Zarejestruj się</Link>
             </Grid>
           </Grid>
         </form>
