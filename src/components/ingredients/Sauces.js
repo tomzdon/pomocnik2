@@ -2,11 +2,17 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { authStates, withAuth } from "../auth";
 import Loader from "../loader";
+import { Redirect } from "react-router-dom";
 
 const Sauces = (props) => {
   if (props.authState === authStates.INITIAL_VALUE) {
     return <Loader />;
   }
+  
+  if (props.authState === authStates.LOGGED_OUT) {
+    return <Redirect to="/logowanie"></Redirect>;
+  }
+
   return (
     <div className="sauces">
       <h1> Jakiego sosu potrzebujesz do przepisu? </h1>

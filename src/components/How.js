@@ -6,8 +6,16 @@ import Grid from "@material-ui/core/Grid";
 import Container from "@material-ui/core/Container";
 import { authStates, withAuth } from "./auth";
 import Loader from "./loader";
+import { Redirect } from "react-router-dom";
 
 const How = (props) => {
+  if (props.authState === authStates.INITIAL_VALUE) {
+    return <Loader />;
+  }
+  if (props.authState === authStates.LOGGED_OUT) {
+    return <Redirect to="/logowanie"></Redirect>;
+  }
+
   return (
     <>
       <div className="text">

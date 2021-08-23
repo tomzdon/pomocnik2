@@ -16,6 +16,7 @@ import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
 import { authStates, withAuth } from "../components/auth";
 import Loader from "./loader";
+import { Redirect } from "react-router-dom";
 
 const GreenCheckbox = withStyles({
   root: {
@@ -86,6 +87,38 @@ const Seek = (props) => {
       setAlert(false);
       setRecipesShow(helpTab);
     }
+    handleSort(helpTab);
+  };
+
+  const handleSort = (helpTab) => {
+    let tab = [];
+    Object.entries(state).map((data) => {
+      if (data[1] === true) {
+        tab.push(data);
+      }
+    });
+
+    let tabSort = [];
+
+    helpTab.forEach((element2, index) => {
+      let count = 0;
+      element2.ingredients.forEach((ingredient, index2) => {
+        tab.forEach((element) => {
+          if (ingredient == element[0]) {
+            count++;
+          }
+        });
+      });
+      tabSort.push({ index: index, counter: count });
+    });
+    tabSort.sort((a, b) => b.counter - a.counter);
+
+    let tabSorted = [];
+
+    tabSort.forEach((element) => {
+      tabSorted.push(helpTab[element.index]);
+    });
+    setRecipesShow(tabSorted);
   };
   const handleChange = (event) => {
     setState({ ...state, [event.target.name]: event.target.checked });
@@ -94,7 +127,10 @@ const Seek = (props) => {
   if (props.authState === authStates.INITIAL_VALUE) {
     return <Loader />;
   }
-  
+
+  if (props.authState === authStates.LOGGED_OUT) {
+    return <Redirect to="/logowanie"></Redirect>;
+  }
 
   return (
     <Container className="cards" maxWidth={"sm"}>

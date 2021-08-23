@@ -4,6 +4,7 @@ import { Container, Button, TextField } from "@material-ui/core";
 import { Card } from "@material-ui/core";
 import { authStates, withAuth } from "../auth";
 import Loader from "../loader";
+import { Redirect } from "react-router-dom";
 
 const CounterDown = (props) => {
   const [start, setStart] = useState(false);
@@ -20,9 +21,22 @@ const CounterDown = (props) => {
       );
     }
   };
+  const handleClick = () => {
+    if (value > 0) {
+      setStart((prev) => !prev);
+    } else {
+      return "Błędna wartość"
+    }
+  };
+
   if (props.authState === authStates.INITIAL_VALUE) {
     return <Loader />;
   }
+
+  if (props.authState === authStates.LOGGED_OUT) {
+    return <Redirect to="/logowanie"></Redirect>;
+  }
+
   return (
     <Container className="timer" maxWidth="sm">
       <div className="text">
@@ -30,12 +44,16 @@ const CounterDown = (props) => {
       </div>
       <Card className="list">
         <div>
-          <TextField
+          <label style={{ marginTop: "20px" }}>
+            Wpisz czas do odliczenia w minutach
+          </label>
+          <br />
+          <input
             value={value}
             onChange={(e) => setValue(e.target.value)}
             name="czas"
             type="number"
-            label="Wpisz czas do odliczenia w minutach"
+            min="0"
           />
         </div>
 
@@ -49,11 +67,7 @@ const CounterDown = (props) => {
         </div>
 
         <div className="start">
-          <Button
-            onClick={() => setStart((prev) => !prev)}
-            variant="contained"
-            color="primary"
-          >
+          <Button onClick={handleClick} variant="contained" color="primary">
             Start
           </Button>
         </div>
