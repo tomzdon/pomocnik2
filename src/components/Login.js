@@ -54,7 +54,7 @@ const Login = (props) => {
       })
       .catch((e) => {
         console.log("Error signing in", e);
-        setError("Incorrect email/password");
+        setError("Nieprawidłowy adres e-mail/hasło");
       });
   };
 
