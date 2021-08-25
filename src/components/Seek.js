@@ -136,8 +136,7 @@ const Seek = (props) => {
     <Container className="cards" maxWidth={"sm"}>
       <div className="text">
         <h2>
-          Proszę wybrać co najmniej 3 składniki, z których zamierzasz stworzyć
-          danie:
+          Proszę wybrać składniki, z których zamierzasz stworzyć danie:
         </h2>
       </div>
 
