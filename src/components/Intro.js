@@ -12,30 +12,37 @@ const Intro = (props) => {
   if (props.authState === authStates.LOGGED_OUT) {
     return <Redirect to="/logowanie"></Redirect>;
   }
-  return (
+return (
     <>
       <div className="intro">
         <h1 className="wstep">Witamy w pomocniku kulinarnym!</h1>
         <ul>
-          Przed Tobą aplikacja, która służy jako niezastąpione wsparcie w
-          kuchni.
+          Przed Tobą aplikacja, która służy jako niezastąpione narzędzie w kuchni.
         </ul>
         <ul>
           Znajdziesz tutaj funkcję do wyszukiwania przepisów za pomocą wybranych
-          składników, zalecenia i porady odnośnie gotowania wielu produktów oraz
-          narzędzie służące do odliczania czasu
+          składników, zalecenia i porady odnośnie przygotowywania wielu produktów oraz
+          minutnik.
         </ul>
-        <ul>
-          W trakcie gotowania pamiętaj o tym, że:
+
+        W trakcie gotowania pamiętaj o tym, że:
+        <div>
+        <ol>
+
           <li>
-            każdy rodzaj mięsa możesz zastąpić innym rodzajem mięsa (np.
-            polędwicę wieprzową piersią z kurczaka)
+            Każdy rodzaj mięsa możesz zastąpić innym rodzajem mięsa (np.
+            polędwicę wieprzową piersią z kurczaka).
           </li>
           <li>
-            możesz zmieniać ilość składników w przepisach zachowując ich
-            proporcje
+            Możesz zmieniać ilość składników w przepisach zachowując ich
+            proporcje.
+          </li><li>
+            Nie obawiaj sie eksperymentować.
+          </li><li>
+            Nie zawsze to co smaczne, musi pięknie wyglądać.
           </li>
-        </ul>
+        </ol>
+      </div>
       </div>
     </>
   );
