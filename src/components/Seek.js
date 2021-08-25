@@ -455,7 +455,7 @@ const Seek = (props) => {
       </FormGroup>
 
       {recipesShow && <Recipes recipes={recipesShow} />}
-      {alert && window.alert("Zbyt mała ilość zaznaczonych składników!")}
+      {alert && window.alert("Proszę zaznaczyć większą ilość składników")}
 
       <div className="buttons">
         <Button variant="contained" onClick={handleClick} color="primary">
@@ -465,7 +465,6 @@ const Seek = (props) => {
 
       <div className="buttons">
         <Link to="/funkcje/znajdz/sosy">
-          {" "}
           <Button variant="contained" color="primary">
             Sosy, które często wystepują w przepisach
           </Button>

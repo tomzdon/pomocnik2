@@ -5,13 +5,17 @@ import { Card } from "@material-ui/core";
 import { authStates, withAuth } from "../auth";
 import Loader from "../loader";
 import { Redirect } from "react-router-dom";
+import useSound from "use-sound";
+import beep from "../../assets/alarm.mp3";
 
 const CounterDown = (props) => {
   const [start, setStart] = useState(false);
   const [value, setValue] = useState(0);
+  const [play] = useSound(beep);
 
   const renderer = ({ hours, minutes, seconds, completed }) => {
     if (completed) {
+      play();
       return "Czas minął";
     } else {
       return (
@@ -25,7 +29,7 @@ const CounterDown = (props) => {
     if (value > 0) {
       setStart((prev) => !prev);
     } else {
-      return "Błędna wartość"
+      return "Błędna wartość";
     }
   };
 

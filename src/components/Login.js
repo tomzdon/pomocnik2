@@ -41,10 +41,6 @@ const Login = (props) => {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    if (error) {
-      return;
-    }
-
     const errorMsg = validateEmailPassword(values.email, values.password);
 
     if (errorMsg) {
@@ -95,6 +91,9 @@ const Login = (props) => {
                 id="standard-error"
                 label="Adres e-mail:"
               />
+            </Grid>
+            <Grid item xs={12}>
+              <p style={{ color: "red" }}>{error}</p>
             </Grid>
             <Grid item xs={12}>
               <Button

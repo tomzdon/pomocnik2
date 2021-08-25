@@ -95,7 +95,9 @@ const Register = (props) => {
                 id="standard-error"
                 label="Adres e-mail:"
               />
-              
+              <Grid item xs={12}>
+                <p style={{ color: "red" }}>{error}</p>
+              </Grid>
             </Grid>
             <Grid item xs={12}>
               <Button
