@@ -5,22 +5,22 @@ const en = {
   },
 
   FORM_FIELDS: {
-    NAME: "Name",
+    NAME: "Imię",
     EMAIL: "E-mail",
-    PASSWORD: "Password",
-    RETYPE_PASSWORD: "Retype Password",
-    SIGNUP: "Sing up",
-    LOGIN: "Login",
-    SIGNUP_ALT_TEXT: "Existing user?",
+    PASSWORD: "Hasło",
+    RETYPE_PASSWORD: "Wpisz ponownie hasło",
+    SIGNUP: "Zarejestruj",
+    LOGIN: "Zaloguj",
+    SIGNUP_ALT_TEXT: "Użytkownik już istnieje?",
     LOGIN_ALT_TEXT: "Czy jesteś nowym użytkownikiem?",
   },
 
   ERRORS: {
-    EMPTY_EMAIL: "Email is required",
-    INVALID_EMAIL: "Invalid email",
-    EMPTY_PASSWORD: "Password is required",
-    PASSWORD_MISMATCH: "Passwords do not match",
-    AUTH: "Incorrect email/password",
+    EMPTY_EMAIL: "Adres e-mail jest wymagany!",
+    INVALID_EMAIL: "Nieprawidłowy adres e-mail!",
+    EMPTY_PASSWORD: "Nie wprowadzono hasła!",
+    PASSWORD_MISMATCH: "Hasła nie pasują do siebie!",
+    AUTH: "Nieprawidłowy adres e-mail lub hasło!",
   },
 };
 
