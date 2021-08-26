@@ -12,6 +12,9 @@ export function validatePassword(password) {
   if (!password) {
     return en.ERRORS.EMPTY_PASSWORD;
   }
+  if (password.length < 6 ) {
+    return en.ERRORS.COUNT_PASSWORD;
+  }
 }
 
 export function validateEmailPassword(email, password) {

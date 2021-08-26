@@ -34,7 +34,6 @@ const Login = (props) => {
       ? setValues({ email: value, password: values.password })
       : setValues({ email: values.email, password: value });
 
-    console.log(values);
     setError(error);
   };
 

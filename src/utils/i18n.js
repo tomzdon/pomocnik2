@@ -19,6 +19,7 @@ const en = {
     EMPTY_EMAIL: "Adres e-mail jest wymagany!",
     INVALID_EMAIL: "Nieprawidłowy adres e-mail!",
     EMPTY_PASSWORD: "Nie wprowadzono hasła!",
+    COUNT_PASSWORD: "Zbyt krótkie hasło!",
     PASSWORD_MISMATCH: "Hasła nie pasują do siebie!",
     AUTH: "Nieprawidłowy adres e-mail lub hasło!",
   },

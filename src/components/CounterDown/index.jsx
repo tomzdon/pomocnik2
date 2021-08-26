@@ -11,7 +11,7 @@ import beep from "../../assets/alarm.mp3";
 const CounterDown = (props) => {
   const [start, setStart] = useState(false);
   const [value, setValue] = useState(0);
-  const [play] = useSound(beep);
+  const [play, { stop }] = useSound(beep);
 
   const renderer = ({ hours, minutes, seconds, completed }) => {
     if (completed) {
@@ -31,6 +31,11 @@ const CounterDown = (props) => {
     } else {
       return "Błędna wartość";
     }
+  };
+
+  const handleStop = () => {
+    stop();
+    setStart((prev) => !prev);
   };
 
   if (props.authState === authStates.INITIAL_VALUE) {
@@ -73,6 +78,14 @@ const CounterDown = (props) => {
         <div className="start">
           <Button onClick={handleClick} variant="contained" color="primary">
             Start
+          </Button>
+          <Button
+            onClick={handleStop}
+            style={{ marginLeft: "10px" }}
+            variant="contained"
+            color="primary"
+          >
+            Stop
           </Button>
         </div>
       </Card>
