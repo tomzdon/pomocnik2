@@ -25,24 +25,25 @@ return (
           minutnik.
         </ul>
 
+        <br/>
+        <br/>
+      <ul>
         W trakcie gotowania pamiętaj o tym, że:
-        <div>
-        <ol>
-
-          <li>
-            Każdy rodzaj mięsa możesz zastąpić innym rodzajem mięsa (np.
+      </ul>
+        <ul>
+            1. Każdy rodzaj mięsa możesz zastąpić innym rodzajem mięsa (np.
             polędwicę wieprzową piersią z kurczaka).
-          </li>
-          <li>
-            Możesz zmieniać ilość składników w przepisach zachowując ich
+        </ul>
+        <ul>
+            2. Możesz zmieniać ilość składników w przepisach zachowując ich
             proporcje.
-          </li><li>
-            Nie obawiaj sie eksperymentować.
-          </li><li>
-            Nie zawsze to co smaczne, musi pięknie wyglądać.
-          </li>
-        </ol>
-      </div>
+        </ul>
+        <ul>
+            3. Nie obawiaj sie eksperymentować.
+        </ul>
+        <ul>
+            4. Nie zawsze to co smaczne, musi pięknie wyglądać.
+        </ul>
       </div>
     </>
   );
