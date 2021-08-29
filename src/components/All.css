@@ -153,3 +153,11 @@ html {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.MuiAppBar-colorPrimary {
+  background-color: #1e8ee3 !important;
+}
+
+.MuiMenuItem-root {
+  background-color: #1e8ee3 !important;
+}
