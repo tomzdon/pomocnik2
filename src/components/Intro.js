@@ -15,7 +15,7 @@ const Intro = (props) => {
 return (
     <>
       <div className="intro">
-        <h1 className="wstep">Witamy w pomocniku kulinarnym!</h1>
+        <h1 className="wstep">Witamy w Mobilnej Książce Kucharskiej!</h1>
         <ul>
           Przed Tobą aplikacja, która służy jako niezastąpione narzędzie w kuchni.
         </ul>
