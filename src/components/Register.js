@@ -58,7 +58,7 @@ const Register = (props) => {
       .catch((e) => {
         console.log("Error signing up", e);
         if (e.code === "auth/email-already-in-use") {
-          setError("Email already in use");
+          setError("Adres e-mail jest już w użyciu");
         }
       });
   };
